@@ -107,3 +107,40 @@ A backlog item can be marked complete when the team has verified that:
 ## Source
 
 Prepared from the **Textbook Swap SA** Trello backlog export supplied for this project. The board lists seven sprint groups and 54 day-based tasks. Confirm task status and any additional requirements with the current Trello board and project team.
+
+
+## Supporting Evidence
+
+The following screenshots provide visual evidence of the Product Backlog created for the TextBook Swap SA entrepreneurial project using Trello.
+
+### Product Backlog – Screenshot 1
+
+![Product Backlog Screenshot 1](Product%20Backlog%201.PNG)
+
+### Product Backlog – Screenshot 2
+
+![Product Backlog Screenshot 2](Product%20Backlog%202.PNG)
+
+### Product Backlog – Screenshot 3
+
+![Product Backlog Screenshot 3](Product%20Backlog%203.PNG)
+
+### Product Backlog – Screenshot 4
+
+![Product Backlog Screenshot 4](Product%20Backlog%204.PNG)
+
+### Product Backlog – Screenshot 5
+
+![Product Backlog Screenshot 5](Product%20Backlog%205.PNG)
+
+### Product Backlog – Screenshot 6
+
+![Product Backlog Screenshot 6](Product%20Backlog%206.PNG)
+
+### Product Backlog – Screenshot 7
+
+![Product Backlog Screenshot 7](Product%20Backlog%207.PNG)
+
+### Product Backlog – Screenshot 8
+
+![Product Backlog Screenshot 8](Product%20Backlog%208.PNG)
