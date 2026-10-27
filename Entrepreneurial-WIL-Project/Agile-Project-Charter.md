@@ -58,4 +58,24 @@ The charter also provided a foundation for organising project tasks and keeping 
 
 ## 11. Supporting Evidence
 
-The screenshots below will provide evidence of the original charter. They should be added once the images have been uploaded to the repository.
+The following screenshots provide visual evidence of the original Agile Team Charter for Book Swap SA.
+
+### Charter – Page 1
+
+![Agile Team Charter Page 1](Agile%20Team%20Charter%201.PNG)
+
+### Charter – Page 2
+
+![Agile Team Charter Page 2](Agile%20Team%20Charter%202.PNG)
+
+### Charter – Page 3
+
+![Agile Team Charter Page 3](Agile%20Team%20Charter%203.PNG)
+
+### Charter – Page 4
+
+![Agile Team Charter Page 4](Agile%20Team%20Charter%204.PNG)
+
+### Charter – Page 5
+
+![Agile Team Charter Page 5](Agile%20Team%20Charter%205.PNG)
