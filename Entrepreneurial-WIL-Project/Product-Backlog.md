@@ -12,8 +12,6 @@ This backlog is organised using the seven sprints and 54 day-based tasks listed 
 - `[ ]` Not marked complete in this document
 - `[x]` Mark complete when the team has verified the task is finished
 
-> **Note:** The checkboxes are intentionally left unchecked because the Trello export does not consistently show the completion status of every task. Update them to match the team's current progress.
-
 ## Sprint 1 — Project Initiation and Business Planning
 
 - **Day 1:** Complete business planning
