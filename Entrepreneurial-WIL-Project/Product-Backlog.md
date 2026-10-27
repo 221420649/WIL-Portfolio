@@ -144,3 +144,13 @@ The following screenshots provide visual evidence of the Product Backlog created
 ### Product Backlog – Screenshot 8
 
 ![Product Backlog Screenshot 8](Product%20Backlog%208.PNG)
+
+## Reflection
+
+Creating the Product Backlog for the TextBook Swap SA entrepreneurial project showed me the significance of splitting project works into small, manageable tasks. I split the project into seven sprints, including various stages, such as business planning, system analysis, interface design, development, testing, and the submission of the project.
+
+Working with Trello allowed me to gather all tasks into one list and see an overall picture of the project tasks. Splitting the project into daily tasks helped me better see what work had to be done in each part of the process and see how various tasks fit into the project goals.
+
+One of the things I learned while creating the Product Backlog is that it is more than just a list of tasks. It is a planning tool that requires updating and checking at each stage of the project. Tasks should be prioritised and have their progress marked accordingly.
+
+In general, creating the Product Backlog increased my understanding of Agile planning and managing of tasks. The Product Backlog created a foundation for creating the Sprint Backlog with further planning of selected tasks for a particular sprint.
