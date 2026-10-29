@@ -147,10 +147,12 @@ The following screenshots provide visual evidence of the Product Backlog created
 
 ## Reflection
 
-Creating the Product Backlog for the TextBook Swap SA entrepreneurial project showed me the significance of splitting project works into small, manageable tasks. I split the project into seven sprints, including various stages, such as business planning, system analysis, interface design, development, testing, and the submission of the project.
+## Reflection
 
-Working with Trello allowed me to gather all tasks into one list and see an overall picture of the project tasks. Splitting the project into daily tasks helped me better see what work had to be done in each part of the process and see how various tasks fit into the project goals.
+Developing the Product Backlog for the TextBook Swap SA entrepreneurial project helped me understand the importance of organising project work into smaller, manageable tasks. I divided the project into seven sprints, covering the different stages of the project, from business planning and system analysis to interface design, development, testing, and final submission.
 
-One of the things I learned while creating the Product Backlog is that it is more than just a list of tasks. It is a planning tool that requires updating and checking at each stage of the project. Tasks should be prioritised and have their progress marked accordingly.
+Using Trello helped me organise the tasks in one place and gave me a clear overview of the work required throughout the project. Breaking the project down into daily tasks made it easier to identify what needed to be done at each stage and understand how the different activities contributed to the overall project objectives.
 
-In general, creating the Product Backlog increased my understanding of Agile planning and managing of tasks. The Product Backlog created a foundation for creating the Sprint Backlog with further planning of selected tasks for a particular sprint.
+One of the lessons I learned was that a Product Backlog is not simply a list of tasks. It is a planning tool that needs to be reviewed and updated as the project progresses. Tasks must be prioritised, and their progress must be recorded accurately to reflect the actual work completed.
+
+Overall, creating the Product Backlog improved my understanding of Agile project planning and task organisation. It also provided a foundation for developing the Sprint Backlog, where selected tasks can be planned in greater detail for a specific sprint.
