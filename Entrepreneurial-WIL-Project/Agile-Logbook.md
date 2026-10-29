@@ -751,3 +751,16 @@ Overall, the project provided valuable practical experience in applying Agile pr
 ![3 AGILE](3%20AGILE.png)
 
 ![4 AGILE](4%20AGILE.png)
+
+### Week 4: 3–7 August 2026
+**Textbook Browsing, Sprint Board and Branding Guide**
+
+![AGL1](AGL1.png)
+
+![AGL2](AGL2.png)
+
+![AGL3](AGL3.png)
+
+![AGL4](AGL4.png)
+
+![AGL5](AGL5.png)
