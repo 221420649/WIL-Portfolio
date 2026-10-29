@@ -719,6 +719,15 @@ Overall, the project provided valuable practical experience in applying Agile pr
 
 ---
 # 6. AGILE LOGBOOK SCREENSHOTS
+### Week 1: 14–17 July 2026
+**Business Proposal Presentation and Feedback**
 
+![Agile LogBook 1](Agile%20LogBook%201.png)
+
+![Agile LogBook 2](Agile%20LogBook%202.png)
+
+![Agile LogBook 3](Agile%20LogBook%203.png)
+
+![Agile LogBook 4](Agile%20LogBook%204.png)
 
 
