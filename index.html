@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WIL Portfolio | TextBook Swap SA</title>
+  <style>
+    :root {
+      --green: #24452A;
+      --gold: #C89245;
+      --cream: #F7F2E8;
+      --white: #FCFBF7;
+      --olive: #4B6B42;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      background: var(--cream);
+      color: #28352A;
+      line-height: 1.7;
+    }
+
+    header {
+      background: var(--green);
+      color: white;
+      padding: 56px 20px;
+      text-align: center;
+      border-bottom: 6px solid var(--gold);
+    }
+
+    header p { max-width: 650px; margin: 12px auto; }
+
+    .tag {
+      color: #F4D8A8;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      font-size: 12px;
+      font-weight: bold;
+    }
+
+    h1 { font-size: clamp(32px, 5vw, 48px); margin: 10px 0; }
+    h2 { color: var(--green); }
+
+    main { max-width: 1000px; margin: auto; padding: 32px 20px; }
+
+    .intro, .card {
+      background: var(--white);
+      padding: 24px;
+      border-radius: 14px;
+      border: 1px solid #e6dfd1;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+      gap: 18px;
+      margin: 24px 0;
+    }
+
+    .card { border-top: 4px solid var(--gold); }
+    .card h3 { color: var(--green); margin-top: 0; }
+
+    a { color: var(--olive); font-weight: 600; }
+    a:hover { color: var(--green); }
+
+    .button {
+      display: inline-block;
+      background: var(--gold);
+      color: #1e2c1e;
+      padding: 12px 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      margin-top: 12px;
+    }
+
+    footer {
+      text-align: center;
+      background: var(--green);
+      color: white;
+      padding: 24px;
+      margin-top: 30px;
+    }
+
+    footer a { color: #F4D8A8; }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="tag">Entrepreneurial Work Integrated Learning</div>
+    <h1>TextBook Swap SA</h1>
+    <p>WIL Portfolio</p>
+    <p>Documenting the planning, teamwork, Agile practices and development of a student textbook marketplace.</p>
+    <a class="button" href="https://book-swap-sa.vercel.app/books/l-mu4vl3x8yaou">Explore the Live Application</a>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Welcome to My Portfolio</h2>
+      <p>This portfolio presents evidence and reflections from my Entrepreneurial WIL Project. TextBook Swap SA aims to help university students access more affordable academic materials by connecting students who want to buy and sell second-hand textbooks.</p>
+    </section>
+
+    <h2>Project Documentation</h2>
+    <p>Explore the project artefacts, screenshots and reflections below.</p>
+
+    <section class="cards">
+      <article class="card">
+        <h3>01. Agile Project Charter</h3>
+        <p>Project purpose, objectives, team roles and working agreements.</p>
+        <a href="Entrepreneurial-WIL-Project/Agile-Project-Charter.md">View Charter →</a>
+      </article>
+
+      <article class="card">
+        <h3>02. User Stories and Tasks</h3>
+        <p>User needs, planned features and development tasks.</p>
+        <a href="Entrepreneurial-WIL-Project/User-Stories-and-Tasks.md">View User Stories →</a>
+      </article>
+
+      <article class="card">
+        <h3>03. Product Backlog</h3>
+        <p>Features and work items planned for the product.</p>
+        <a href="Entrepreneurial-WIL-Project/Product-Backlog.md">View Product Backlog →</a>
+      </article>
+
+      <article class="card">
+        <h3>04. Sprint Backlog</h3>
+        <p>Tasks selected and organised for project sprints.</p>
+        <a href="Entrepreneurial-WIL-Project/Sprint-Backlog.md">View Sprint Backlog →</a>
+      </article>
+
+      <article class="card">
+        <h3>05. Agile Logbook</h3>
+        <p>Project progress, activities and supporting screenshots.</p>
+        <a href="Entrepreneurial-WIL-Project/Agile-Logbook.md">View Agile Logbook →</a>
+      </article>
+
+      <article class="card">
+        <h3>Live Application</h3>
+        <p>Visit the TextBook Swap SA application.</p>
+        <a href="https://book-swap-sa.vercel.app/books/l-mu4vl3x8yaou">Open Website →</a>
+      </article>
+    </section>
+
+    <section class="intro">
+      <h2>Technologies Used</h2>
+      <p>React · TypeScript · Vite · Firebase</p>
+      <p>This portfolio documents the project work and learning completed during the Entrepreneurial WIL Project.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>TextBook Swap SA · Entrepreneurial WIL Portfolio</p>
+    <a href="https://github.com/221420649/WIL-Portfolio">View GitHub Repository</a>
+  </footer>
+</body>
+</html>
