@@ -18,906 +18,707 @@
 6. [Overall Project Reflection](#6-overall-project-reflection)
 
 ---
+# ENTREPRENEURIAL WIL PROJECT
+# AGILE LOGBOOK
 
-# 1. Agile Logbook 1 – Business Proposal Presentation (14–17 July 2026)
+**Project Name:** TextbookSwap – Second-Hand Textbook Swap  
+**Project Period:** July – August 2026  
+**Project Type:** Entrepreneurial WIL Project
 
-## 1.1 Taskboard and Product Backlog
+---
 
-### User Story 1: Prepare and Present the Business Proposal
+# WEEK 1: 14–17 JULY 2026
+## Business Proposal Presentation and Feedback
 
-**User Story:** As a group member, I want to prepare and present the business proposal so that the project can be assessed.
+### 1. Taskboard
 
-**Sprint:** Sprint 1 – Prepare and Present the Business Proposal.
+#### User Story 1: Business Proposal Presentation
+
+**User Story:**  
+As a group member, I want to prepare and present the business proposal so that the project can be assessed.
+
+**Sprint 1:** Prepare and Present Business Proposal
 
 **Tasks:**
 - Create the PowerPoint presentation.
-- Decide on a presentation date.
-- Review and edit the slides.
+- Decide on a suitable presentation date.
+- Review and edit the presentation slides.
 - Present the project on Wednesday.
-- Discuss feedback and improvements after the presentation.
+- Discuss feedback and possible improvements after the presentation.
 
 **In Progress:**
-- Continue discussions about the project.
+- Continue group discussions.
 - Improve the presentation based on feedback.
+- Discuss possible project improvements.
+- Plan the next steps as a group.
+- Update project documentation where necessary.
 
 **Completed:**
 - Created the PowerPoint presentation.
-- Chose a presentation date.
-- Presented the project.
+- Selected a presentation date.
+- Presented the business proposal.
+- Reflected on the presentation.
+- Discussed feedback and identified areas for improvement.
 
-### User Story 2: Review the Presentation and Feedback
+#### User Story 2: Reviewing Feedback
 
-**User Story:** As a group member, I want to discuss the project and review feedback so that we can improve our work.
+**User Story:**  
+As a group member, I want to discuss the project and review feedback so that we can improve our work.
 
-**Sprint:** Sprint 1 – Review the Presentation.
+**Sprint 1:** Review Business Proposal Presentation
 
 **Tasks:**
 - Reflect on the presentation.
 - Discuss feedback from the lecturer and classmates.
-- Identify areas for improvement.
-- Plan the next steps for the project.
-
-**In Progress:**
-- Discuss possible improvements to the project.
-- Plan the next steps as a group.
-- Update project documents if necessary.
-
-**Completed:**
-- Reflected on the presentation.
-- Discussed the feedback received.
-- Identified areas that needed improvement.
-
-## 1.2 Sprint Walkthrough
-
-**1. What do we need to do to advance this piece of work?**
-
-Continue discussing the project and make improvements based on feedback from the presentation.
-
-**2. Is anyone working on anything that is not on the board?**
-
-No. The group focused on preparing and presenting the PowerPoint.
-
-**3. What do we need to finish as a team?**
-
-- Review the presentation.
-- Plan the next steps for the project.
-- Discuss the feedback received.
-- Identify improvements that should be made.
-
-**4. Are there any bottlenecks or blockers to the flow of work?**
-
-The group only found out about the presentation on Tuesday, and Wednesday was the only available presentation day. The group also experienced technical issues during the presentation, which reduced the available presentation time.
-
-## 1.3 Daily Logbook
-
-### Monday
-
-**1. What did I complete since the last stand-up?**
-
-- There were no group meetings or project activities on this day.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Await further communication regarding the project and upcoming tasks.
-
-**3. What are my impediments, risks or problems?**
-
-- No project-related information had been communicated to the group yet.
-
-### Tuesday
-
-**1. What did I complete since the last stand-up?**
-
-- Found out that our group had to present the project.
-- Met with my group to discuss the presentation and prepare the PowerPoint slides.
-- Selected a presentation slot, with Wednesday being the only available choice.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Finalise the presentation and prepare to present on Wednesday.
-
-**3. What are my impediments, risks or problems?**
-
-- We had limited time to prepare because we only found out about the presentation on Tuesday.
-- Wednesday was the only available presentation date.
-
-### Wednesday
-
-**1. What did I complete since the last stand-up?**
-
-- Presented the PowerPoint presentation with my group.
-- Participated in discussions about the project in our WhatsApp group.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Continue discussing the project and review feedback from the presentation.
-
-**3. What are my impediments, risks or problems?**
-
-- We experienced technical issues during the presentation, which reduced the time available to present our work.
-- Because of these delays, the group had to adjust and ensure that the key points of the project were still communicated effectively.
-
-### Thursday
-
-**1. What did I complete since the last stand-up?**
-
-- Continued discussing the project with my group.
-- Reflected on the presentation.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Prepare for future project tasks.
-- Improve our planning.
-
-**3. What are my impediments, risks or problems?**
-
-- The group had limited preparation time due to the short notice about the presentation.
-
-### Friday
-
-**1. What did I complete since the last stand-up?**
-
-- Reflected on the presentation and discussed the project with my group.
-- Reviewed the feedback and identified areas that could be improved.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Continue working on the project.
-- Prepare for the next tasks with group members.
-
-**3. What are my impediments, risks or problems?**
-
-- There were communication and planning challenges due to the short notice for the presentation.
-- The technical issues during the presentation affected our time management.
-
----
-
-# 2. Undated Presentation Week – Additional Reflection
-
-*This section was included in the original 20–24 July logbook but did not have exact dates. It is kept separately until its reporting period is confirmed.*
-
-## 2.1 Daily Activities
-
-### Monday
-
-**Completed:**
-- No group meetings or project activities.
-
-**Planning:**
-- Await communication regarding the project and upcoming tasks.
-
-**Impediments:**
-- No project information had been communicated yet.
-
-### Tuesday
-
-**Completed:**
-- Found out that the group had to present.
-- Met with the group to discuss the presentation and prepare the PowerPoint.
-- Selected a presentation slot, with Wednesday being the only available day.
-
-**Planning:**
-- Finalise the presentation and prepare to present on Wednesday.
-
-**Impediments:**
-- Short notice about the presentation.
-- Limited preparation time.
-
-### Wednesday
-
-**Completed:**
-- Presented the PowerPoint with the group.
-- Participated in project discussions through the WhatsApp group.
-
-**Planning:**
-- Review the feedback from the presentation.
-
-**Impediments:**
-- Technical issues reduced the available presentation time.
-- The group had to adjust and communicate the key project points within the remaining time.
-
-### Thursday
-
-**Completed:**
-- Continued group discussions.
-- Reflected on the presentation.
-
-**Planning:**
-- Prepare for future project tasks.
-- Improve project planning.
-
-**Impediments:**
-- Limited preparation time due to the short notice about the presentation.
-
-### Friday
-
-**Completed:**
-- Reflected on the presentation.
-- Discussed the project with the group.
-- Reviewed feedback and identified areas for improvement.
-
-**Planning:**
-- Continue working on the project.
-- Prepare for upcoming tasks with group members.
-
-**Impediments:**
-- Communication and planning challenges due to the short notice.
-- Technical issues affected time management during the presentation.
-
-## 2.2 Presentation Reflection
-
-**What went well?**
-
-The group managed to prepare and present the business proposal despite receiving limited notice. The presentation allowed the team to explain the project and discuss its purpose.
-
-**What could be improved?**
-
-The group could improve communication about presentation dates and allow more preparation time. Testing presentation equipment beforehand could also help prevent technical issues.
-
-**Next steps:**
-
-- Review the presentation feedback.
 - Identify areas that need improvement.
-- Update project documentation where necessary.
-- Continue planning the next project activities.
+- Plan the next steps as a group.
 
 ---
 
-# 3. Agile Logbook 2 – Project Initiation and Business Planning (20–24 July 2026)
+### 2. Walkthrough
 
-## 3.1 Sprint 1 – Project Initiation and Business Planning
+**1. What can be advanced to the next stage?**
 
-### User Story 1: Define the Business Idea
+The group needed to continue discussions and improve the project based on the feedback received during the business proposal presentation.
 
-**User Story:** As a project team, we want to define the business idea so that we have a clear understanding of the solution we are developing for students who need affordable second-hand textbooks.
+**2. Was any work completed outside the taskboard?**
 
-**Sprint:** Sprint 1 – Project Initiation and Business Planning.
+No. The group mainly focused on preparing and presenting the PowerPoint presentation.
+
+**3. What does the team need to finish?**
+
+The group needed to review the presentation, discuss the feedback received and plan the next project activities.
+
+**4. Were there any blockers or challenges?**
+
+The group only found out about the presentation on Tuesday, leaving limited preparation time before Wednesday. Technical issues also reduced the time available for presenting the project.
+
+---
+
+### 3. Daily Logbook
+
+#### Monday
+**Activities:**
+- No group meetings or project activities took place.
+- The group was waiting for further communication.
+- No new project information was available.
+
+**Plan:**
+- Wait for communication regarding upcoming project activities.
+- Prepare for the next group discussion.
+
+**Impediments:**
+- The group had not yet received information about the presentation requirements or schedule.
+
+#### Tuesday
+**Activities:**
+- The group found out that a business proposal presentation was required.
+- A group discussion took place.
+- The team started preparing the PowerPoint presentation.
+- Wednesday was selected as the presentation date because it was the only available slot.
+
+**Plan:**
+- Complete and review the PowerPoint presentation.
+- Ensure that all important project information was included.
+
+**Impediments:**
+- Limited preparation time because the group received the information at short notice.
+
+#### Wednesday
+**Activities:**
+- Presented the business proposal using the PowerPoint presentation.
+- Continued project discussions through WhatsApp.
+- Reviewed the presentation and discussed feedback.
+
+**Plan:**
+- Reflect on the presentation.
+- Identify areas that could be improved.
+- Discuss the next project activities.
+
+**Impediments:**
+- Technical issues reduced the presentation time.
+- The group had to ensure that the most important points were still communicated.
+
+#### Thursday
+**Activities:**
+- Continued group discussions and reflected on the presentation.
+- Discussed possible improvements.
+- Considered the tasks that needed to be completed next.
+
+**Plan:**
+- Prepare for future project activities.
+- Improve planning and communication within the group.
+
+**Impediments:**
+- Limited preparation time due to the short notice received earlier in the week.
+
+#### Friday
+**Activities:**
+- Reflected on the presentation.
+- Reviewed feedback and identified areas for improvement.
+- Discussed how to continue with the project.
+
+**Plan:**
+- Continue working on the project.
+- Prepare the next tasks and improve planning.
+
+**Impediments:**
+- Short notice and technical issues affected preparation and time management.
+
+---
+
+### 4. Weekly Reflection
+
+During this week, the group focused on preparing and presenting the business proposal. Although the presentation was arranged at short notice, the team managed to prepare the PowerPoint and present the project.
+
+One of the main challenges was the limited preparation time, as the group only received the presentation information on Tuesday. Technical issues also affected the presentation and reduced the available time.
+
+This experience highlighted the importance of teamwork, communication and proper preparation. The group also learned that feedback is important because it helps identify areas that need improvement.
+
+For future presentations, the team should aim to prepare earlier, check the presentation equipment beforehand and ensure that all important information is communicated clearly.
+
+---
+
+# WEEK 2: 20–24 JULY 2026
+## Project Initiation and Business Planning
+
+### 1. Taskboard
+
+#### User Story 1: Defining the Business Idea
+
+**User Story:**  
+As a project team, we want to define our business idea so that we have a clear understanding of the solution we are developing for students who need affordable second-hand textbooks.
+
+**Sprint 1:** Project Initiation and Business Planning
 
 **Tasks:**
-- Research the challenges students face when purchasing textbooks.
+- Research the challenges students experience when purchasing textbooks.
 - Define the business idea.
-- Write the problem statement.
-- Discuss the project's goals and objectives.
+- Write the project problem statement.
+- Discuss the project goals and objectives.
 - Document the agreed business idea.
 - Update the Trello Product Backlog.
 
-### User Story 2: Identify Project Stakeholders
+**In Progress:**
+- Refine the Business Plan.
+- Create detailed User Stories.
+- Update the Project Roadmap.
+- Design the System Architecture.
 
-**User Story:** As a project team, we want to identify the project stakeholders so that we understand who will use the system and whose requirements need to be considered during development.
-
-**Sprint:** Sprint 1 – Project Initiation and Business Planning.
-
-**Tasks:**
-- Identify the primary stakeholders.
-- Identify the secondary stakeholders.
-- Document stakeholder needs and expectations.
-- Create the stakeholder register.
-- Review stakeholder requirements as a team.
-- Update the Trello board with the completed task.
-
-### In Progress
-
-- Refining the business plan.
-- Creating detailed user stories.
-- Updating the project roadmap.
-- Designing the system architecture.
-
-### Completed
-
+**Completed:**
 - Updated the Trello Product Backlog.
 - Broke large tasks into smaller backlog items.
-- Prioritised Product Backlog items.
-- Assigned tasks among team members.
+- Prioritised project tasks.
+- Assigned tasks to group members.
+- Planned sprint activities.
 - Reviewed project requirements.
-- Planned sprint tasks.
 
-## 3.2 Sprint Walkthrough
+#### User Story 2: Identifying Project Stakeholders
 
-**1. What do we need to do to advance this piece of work?**
-
-- Complete and refine the Product Backlog in Trello.
-- Finalise the remaining user stories and task descriptions.
-- Continue improving the business plan.
-- Complete the system architecture and roadmap.
-- Prepare the project for development by ensuring that planning documents are complete.
-
-**2. Is anyone working on anything that is not on the board?**
-
-No. Current tasks were recorded on the Trello board. Any new work discussed during team meetings was added before work began so everyone could see the progress.
-
-**3. What do we need to finish as a team?**
-
-- Finalise the Product Backlog.
-- Complete the business plan.
-- Finish the system architecture and design documentation.
-- Ensure all user stories are written and linked to the appropriate backlog items.
-- Review and update the Trello board before moving into development.
-
-**4. Are there any bottlenecks or blockers to the flow of work?**
-
-The main challenge was breaking larger project tasks into smaller, realistic backlog items. The team also needed to distribute the workload evenly among the three members and agree on the backlog structure before continuing with development.
-
-## 3.3 Sprint 1 – Business Proposal Presentation and Review
-
-### User Story 1: Prepare and Present the Business Proposal
-
-**User Story:** As a group member, I want to prepare and present the business proposal so that the project can be assessed.
+**User Story:**  
+As a project team, we want to identify the project stakeholders so that we understand the users and whose requirements need to be considered.
 
 **Tasks:**
-- Create the PowerPoint presentation.
-- Decide on the presentation date.
-- Review and edit the slides.
-- Present the project on Wednesday.
-- Discuss feedback and improvements after the presentation.
-
-### User Story 2: Review the Presentation and Feedback
-
-**User Story:** As a group member, I want to discuss the project and review feedback so that we can improve our work.
-
-**Tasks:**
-- Reflect on the presentation.
-- Discuss feedback from the lecturer and classmates.
-- Identify areas for improvement.
-- Plan the next steps.
-
-### In Progress
-
-- Continue discussions about the project.
-- Improve the presentation based on feedback.
-- Discuss possible improvements.
-- Plan the next steps as a group.
-- Update project documents if necessary.
-
-### Completed
-
-- Created the PowerPoint presentation.
-- Chose the presentation date.
-- Presented the project.
-- Reflected on the presentation.
-- Discussed the feedback received.
-- Identified areas that needed improvement.
-
-### Sprint Walkthrough
-
-**1. What do we need to do to advance this piece of work?**
-
-Continue discussing the project and make improvements based on the feedback received from the presentation.
-
-**2. Is anyone working on anything that is not on the board?**
-
-No. The group focused on preparing and presenting the PowerPoint.
-
-**3. What do we need to finish as a team?**
-
-- Review the presentation.
-- Discuss the feedback.
-- Plan the next steps.
-- Identify improvements and update documents where necessary.
-
-**4. Are there any bottlenecks or blockers?**
-
-The group only found out about the presentation on Tuesday, and Wednesday was the only available presentation day. Technical issues during the presentation also reduced the available presentation time.
-
-## 3.4 Daily Logbook: 20–24 July 2026
-
-### Monday, 20 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- No group meetings or project activities took place.
-- Attended scheduled classes and reviewed project requirements.
-- Planned the work for the next meeting.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Meet with the team to begin updating the Product Backlog.
-- Create and organise user stories.
-- Plan sprint tasks and update Trello.
-
-**3. What are my impediments, risks or problems?**
-
-There were no major blockers. The team still needed to meet to divide the work and agree on task allocation before the next sprint activities.
-
-### Tuesday, 21 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Met with the team to discuss project requirements.
-- Began improving the business plan.
-- Started organising the Product Backlog in Trello.
-- Broke larger project tasks into smaller backlog items.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Continue expanding the Product Backlog.
-- Create detailed user stories.
-- Start working on the project roadmap.
-
-**3. What are my impediments, risks or problems?**
-
-Some backlog items needed to be refined into smaller, achievable tasks. The team also needed to agree on work distribution.
-
-### Wednesday, 22 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Expanded the Product Backlog with more cards.
-- Created detailed user stories.
-- Continued improving the business plan.
-- Updated the project roadmap.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Design the system architecture.
-- Discuss the technologies and platforms to be used.
-- Continue updating the Trello board.
-
-**3. What are my impediments, risks or problems?**
-
-- Ensuring that backlog items were prioritised correctly.
-- Making sure each sprint had a realistic amount of work.
-
-### Thursday, 23 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Designed the system architecture.
-- Identified technologies to use.
-- Updated project documentation.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Review the Product Backlog.
-- Finalise user stories.
-- Ensure that planning documents are complete before development.
-
-**3. What are my impediments, risks or problems?**
-
-- Finalising the backlog while keeping the workload balanced.
-- Ensuring that documentation aligned with project requirements.
-
-### Friday, 24 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Reviewed the completed Product Backlog.
-- Finalised business plan updates.
-- Organised the backlog into realistic sprint tasks.
-- Updated the Trello board with the latest project changes.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Begin preparing for the next sprint.
-- Start system design and UI planning.
-- Continue monitoring and updating project progress.
-
-**3. What are my impediments, risks or problems?**
-
-There were no major blockers. The main focus was maintaining communication and team alignment as development began.
-
-## 3.5 Retrospective Reflection
-
-**What went well?**
-
-The team collaborated on the business plan and Product Backlog. Larger tasks were broken down into smaller items, and user stories, the project roadmap and system architecture were developed. The group also prepared and delivered the business proposal presentation and discussed feedback.
-
-**What could be improved?**
-
-- Communicate important dates and deadlines earlier.
-- Allow more preparation time for presentations.
-- Test equipment and technology before presentations.
-- Improve task prioritisation and workload distribution.
-- Keep Trello and project documents updated.
-
-**Next steps:**
-
-- Review and act on presentation feedback.
-- Update project documentation.
-- Continue planning system design and UI development.
-- Prepare the next sprint.
-- Maintain communication within the group.
+- Identify primary and secondary stakeholders.
+- Document stakeholder needs and expectations.
+- Create a stakeholder register.
+- Review stakeholder requirements as a team.
+- Update the Trello board with relevant tasks.
 
 ---
 
-# 4. Agile Logbook 3 – TextbookSwap Wireframes (27–31 July 2026)
+### 2. Walkthrough
 
-## 4.1 Sprint 1 – TextbookSwap Wireframes
+**1. What can be advanced to the next stage?**
 
-### User Story 1: Browse Available Textbooks
+The group needed to continue refining the Trello Product Backlog, finalise user stories and task descriptions, improve the Business Plan and complete the System Architecture and Project Roadmap.
 
-**User Story:** As a student, I want to browse available textbooks so that I can find textbooks that I need for my modules.
+The planning documents needed to be completed before moving further into development.
 
-**Sprint:** Sprint 1 – TextbookSwap Wireframes.
+**2. Was any work completed outside the taskboard?**
+
+No. All project tasks were recorded on Trello. Any new work discussed during group meetings was added to the board before work began to ensure visibility.
+
+**3. What does the team need to finish?**
+
+The group needed to:
+- Finalise the Product Backlog.
+- Complete the Business Plan.
+- Finalise the System Architecture and design documentation.
+- Link user stories to the relevant backlog items.
+- Update Trello before development begins.
+
+**4. Were there any blockers or challenges?**
+
+The group experienced challenges when breaking larger tasks into smaller and realistic sprint backlog items. Another challenge was distributing the workload evenly among the three group members and agreeing on the structure of the backlog.
+
+---
+
+### 3. Daily Logbook
+
+#### Monday – 20 July 2026
+
+**Activities:**
+- No group meeting or project activities took place.
+- Attended classes and reviewed the project requirements.
+- Planned the next group meeting.
+
+**Plan:**
+- Arrange a team meeting.
+- Update the Product Backlog.
+- Create and organise User Stories.
+- Plan sprint activities and update Trello.
+
+**Impediments:**
+- The group still needed to meet and divide the work.
+- Tasks and responsibilities needed to be agreed upon.
+
+#### Tuesday – 21 July 2026
+
+**Activities:**
+- Met with the group to discuss project requirements.
+- Improved the Business Plan.
+- Started creating the Trello Product Backlog.
+- Broke larger project tasks into smaller tasks.
+
+**Plan:**
+- Expand the Product Backlog.
+- Create more detailed User Stories.
+- Update the Project Roadmap.
+
+**Impediments:**
+- Some tasks still needed to be refined.
+- The group needed to agree on task distribution.
+
+#### Wednesday – 22 July 2026
+
+**Activities:**
+- Added more task cards to the Trello Product Backlog.
+- Created detailed User Stories.
+- Continued improving the Business Plan.
+- Updated the Project Roadmap.
+
+**Plan:**
+- Start working on the System Architecture.
+- Discuss suitable technologies and platforms.
+- Continue updating Trello.
+
+**Impediments:**
+- Prioritising tasks and deciding what could realistically be completed within the sprint.
+
+#### Thursday – 23 July 2026
+
+**Activities:**
+- Worked on the System Architecture design.
+- Discussed the technologies that could be used for the project.
+- Updated project documentation.
+
+**Plan:**
+- Review the Product Backlog.
+- Finalise User Stories.
+- Complete the remaining planning documentation.
+
+**Impediments:**
+- Balancing the workload between group members.
+- Ensuring that all documentation aligned with the project requirements.
+
+#### Friday – 24 July 2026
+
+**Activities:**
+- Reviewed the completed Product Backlog.
+- Finalised Business Plan updates.
+- Organised the backlog into realistic sprint tasks.
+- Updated the Trello board.
+
+**Plan:**
+- Prepare for the next sprint.
+- Continue with system design and UI planning.
+- Monitor and update project progress.
+
+**Impediments:**
+- Major blockers were noted at this stage. The original logbook did not specify the exact blockers.
+- The group needed to maintain communication and ensure that all members were aligned as development began.
+
+---
+
+### 4. Weekly Reflection
+
+This week focused on establishing a strong foundation for the TextbookSwap project. The group worked on defining the business idea, reviewing requirements, identifying stakeholders and organising the Product Backlog.
+
+The team also worked on User Stories, the Project Roadmap and System Architecture. Trello was used to organise tasks, assign responsibilities and monitor project progress.
+
+One of the main challenges was breaking larger tasks into smaller sprint activities and ensuring that the workload was distributed fairly among the three group members.
+
+This week highlighted the importance of proper planning, clear User Stories and an organised Product Backlog. Going forward, the group needed to maintain communication and ensure that all members understood their responsibilities before development started.
+
+---
+
+# WEEK 3: 27–31 JULY 2026
+## TextbookSwap Wireframes
+
+### 1. Taskboard
+
+#### User Story 1: Browsing Available Textbooks
+
+**User Story:**  
+As a student, I want to browse available textbooks so that I can find textbooks required for my modules.
+
+**Sprint 1:** TextbookSwap Wireframes
 
 **Tasks:**
-- Design the home/browse page in Figma.
-- Design the textbook listing section.
-- Add textbook information such as title, author, module and price.
-- Design navigation between pages.
-- Review the design with the team.
+- Design the Home and Browse pages in Figma.
+- Create the textbook listing section.
+- Include textbook title, author, module and price information.
+- Plan the navigation structure.
+- Review the designs as a team.
 
-### User Story 2: List a Textbook for Sale or Exchange
+**In Progress:**
+- Continue creating wireframes in Figma.
+- Design the page layouts.
+- Review the wireframes.
+- Make changes based on team feedback.
+- Attend online classes and discuss project progress.
 
-**User Story:** As a student, I want to list a textbook for sale or exchange so that other students can view and obtain it.
+**Completed:**
+- Initial wireframe planning.
+- Initial Figma designs and mock-ups.
 
-**Sprint:** TextbookSwap Wireframes.
+#### User Story 2: Listing a Textbook
+
+**User Story:**  
+As a student, I want to list a textbook for sale or exchange so that other students can view and obtain it.
+
+**Sprint:** TextbookSwap Wireframes
 
 **Tasks:**
 - Design the Add/List Textbook page.
-- Add fields for textbook details.
-- Design the submit/list button.
-- Review the layout and make changes based on team feedback.
+- Identify the information fields required for textbook listings.
+- Include a submit/list button.
+- Review the page layout.
+- Make adjustments based on team feedback.
 - Finalise the wireframe.
-
-### In Progress
-
-- Developing Figma wireframes.
-- Working on page layouts.
-- Reviewing designs.
-- Gathering team feedback and making changes.
-
-### Completed
-
-- Initial wireframe planning.
-- Initial Figma designs and mock-ups.
-- Online class and project discussions.
-
-## 4.2 Sprint Walkthrough
-
-**1. What do we need to do to advance this piece of work?**
-
-We need to finalise the Figma wireframes and make sure all the main pages and features of the TextbookSwap system are represented. We also need to review the designs as a team, make any necessary changes, and start preparing the project structure and development environment.
-
-**2. Is anyone working on anything that is not on the board?**
-
-No major work was being done outside of the board. The team mainly focused on the Figma wireframes, discussing the layout, functionality and overall design of the TextbookSwap system.
-
-**3. What do we need to finish as a team?**
-
-- Complete and approve the wireframes.
-- Ensure that all required pages and features are included.
-- Agree on the final design before moving into development.
-- Divide tasks between team members so that development can begin smoothly.
-
-**4. Are there any bottlenecks or blockers to the flow of work?**
-
-The main challenge was breaking larger project tasks into smaller, realistic backlog items that could be completed within a sprint. The team also needed to ensure the workload was distributed evenly among the three members and that everyone agreed on the structure of the backlog before continuing with development.
-
-## 4.3 Daily Logbook: 27–31 July 2026
-
-### Monday, 27 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- There were no group meetings or project activities on this day.
-- Attended scheduled classes and reviewed the project requirements.
-- Planned the work that would be completed during the next meeting.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Start working on the TextbookSwap wireframes in Figma.
-- Work on the layout and structure of the required pages.
-- Discuss the designs with the team.
-
-**3. What are my impediments, risks or problems?**
-
-- Some design decisions still needed to be discussed and agreed upon by the team.
-- We needed to make sure that all required features were represented in the wireframes.
-
-### Tuesday, 28 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Started working on the TextbookSwap wireframes in Figma.
-- Worked on the layout and structure of the different pages.
-- Discussed the placement of buttons, navigation and other interface elements.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Continue developing the remaining wireframes.
-- Review the pages and make sure they follow a consistent design.
-- Get feedback from the team on the wireframes.
-
-**3. What are my impediments, risks or problems?**
-
-- Some pages still needed to be completed.
-- We needed to ensure that the wireframes matched the project requirements.
-
-### Wednesday, 29 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Continued working on the Figma wireframes.
-- Reviewed the designs with the team.
-- Adjusted the layouts based on feedback.
-- Worked on making the pages more consistent with each other.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Finalise the remaining wireframes.
-- Make any necessary design changes.
-- Ensure the main pages and navigation are clearly represented.
-
-**3. What are my impediments, risks or problems?**
-
-- Some changes were still being discussed within the team.
-- We needed to ensure that the final wireframes covered all the required functionality.
-
-### Thursday, 30 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Continued refining the TextbookSwap Figma wireframes.
-- Reviewed the completed designs with the team.
-- Helped identify areas that needed improvement or clarification.
-- Worked towards getting the wireframes ready for the next stage of the project.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Finalise the remaining changes to the wireframes.
-- Make sure all required pages are completed.
-- Prepare to move from the wireframing stage towards development.
-
-**3. What are my impediments, risks or problems?**
-
-- Finalising the backlog while keeping the workload balanced across the team.
-- Ensuring all planning documents were aligned with the project requirements.
-
-### Friday, 31 July 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Reviewed the completed Product Backlog.
-- Finalised the business plan updates.
-- Organised the backlog into realistic sprint tasks.
-- Updated the Trello board with the latest project changes.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Begin preparing for the next sprint.
-- Start working on the system design and UI planning.
-- Continue monitoring and updating project progress.
-
-**3. What are my impediments, risks or problems?**
-
-- The main risk was making sure the final wireframes were agreed upon by the whole team.
-- Any unfinished wireframes or design changes could delay the start of development.
-
-## 4.4 Retrospective Reflection
-
-**What went well?**
-
-The team made progress with the initial Figma wireframes, page layouts and interface planning. Team discussions and feedback helped identify changes needed to improve consistency and ensure that the designs aligned with the project requirements.
-
-**What could be improved?**
-
-The team could improve the way design decisions are finalised and ensure that tasks are distributed evenly. Completing the wireframes and agreeing on the final designs earlier would help reduce delays when moving into development.
-
-**What did I learn?**
-
-I learned the importance of breaking project work into manageable tasks, reviewing designs with team members and keeping the Trello board updated. Wireframing also helped the team plan the system's pages and navigation before development.
-
-**Next steps:**
-
-- Finalise and approve the remaining Figma wireframes.
-- Ensure that all required pages and features are represented.
-- Continue with system design and UI planning.
-- Prepare the next sprint and keep the Trello board updated.
 
 ---
 
-# 5. Agile Logbook 4 – Branding Guide and Sprint Board (3–7 August 2026)
+### 2. Walkthrough
 
-## 5.1 Sprint 1 – Textbook Browsing and Searching
+**1. What can be advanced to the next stage?**
 
-### User Story 1: Browse and Search for Textbooks
+The group needed to finalise the Figma wireframes for the main pages and features. The team also needed to review the designs, make necessary changes and prepare the project structure and development environment.
 
-**User Story:** As a student, I want to view and search for second-hand textbooks so that I can find affordable textbooks for my modules.
+**2. Was any work completed outside the taskboard?**
 
-**Sprint:** Sprint 1 – Textbook Browsing and Searching.
+No major work was completed outside the taskboard. The main focus remained on Figma wireframes, page layouts, functionality and design.
+
+**3. What does the team need to finish?**
+
+The group needed to:
+- Complete and approve the wireframes.
+- Ensure that all required pages and features were included.
+- Agree on the final design.
+- Divide tasks for the development stage.
+
+**4. Were there any blockers or challenges?**
+
+The group experienced challenges when breaking larger tasks into realistic sprint backlog items. The team also needed to distribute the workload evenly among the three members and agree on the backlog structure.
+
+---
+
+### 3. Daily Logbook
+
+#### Monday – 27 July 2026
+
+**Activities:**
+- No group meetings or project activities took place.
+- Attended classes and reviewed project requirements.
+- Planned the next group meeting.
+
+**Plan:**
+- Start working on the Figma wireframes.
+- Plan the different page layouts.
+- Discuss the design with the group.
+
+**Impediments:**
+- Some design decisions needed to be agreed upon by the team.
+- The wireframes needed to include all required features.
+
+#### Tuesday – 28 July 2026
+
+**Activities:**
+- Started creating the wireframes in Figma.
+- Worked on page layouts.
+- Planned button placement, navigation and interface elements.
+
+**Plan:**
+- Continue creating the remaining wireframes.
+- Ensure consistency between the different pages.
+- Review the designs with the group.
+
+**Impediments:**
+- Some pages were still incomplete.
+- The designs needed to match the project requirements.
+
+#### Wednesday – 29 July 2026
+
+**Activities:**
+- Continued working on the Figma wireframes.
+- Reviewed the designs with the team.
+- Adjusted layouts based on feedback.
+- Worked on improving consistency between pages.
+
+**Plan:**
+- Finalise the wireframes.
+- Make any remaining changes.
+- Review the main pages and navigation structure.
+
+**Impediments:**
+- Some design changes still needed discussion.
+- The wireframes needed to cover the required functionality.
+
+#### Thursday – 30 July 2026
+
+**Activities:**
+- Continued refining the wireframes.
+- Reviewed the designs as a group.
+- Identified areas that needed improvement or clarification.
+- Prepared for the next project stage.
+
+**Plan:**
+- Complete the remaining wireframe changes.
+- Review the main pages.
+- Prepare for development activities.
+
+**Impediments:**
+- The group still needed to finalise the backlog and balance the workload.
+- Project documentation needed to align with the requirements.
+
+#### Friday – 31 July 2026
+
+**Activities:**
+- Reviewed the completed Product Backlog.
+- Finalised Business Plan updates.
+- Organised the backlog into realistic sprint tasks.
+- Updated the Trello board.
+
+**Plan:**
+- Prepare for the next sprint.
+- Continue with system design and UI planning.
+- Monitor and update project progress.
+
+**Impediments:**
+- The group needed to ensure that all wireframes were agreed upon.
+- Unfinished wireframes or further design changes could delay development.
+
+---
+
+### 4. Weekly Reflection
+
+During this week, the group focused on designing the TextbookSwap wireframes using Figma. The main objective was to plan the layout and structure of the website before moving into development.
+
+The group worked on the Home and Browse pages, textbook listing sections, navigation and the Add/List Textbook page. The designs were reviewed and adjusted based on feedback from team members.
+
+One of the challenges was ensuring that all pages included the required features while maintaining a consistent design. The group also needed to agree on design decisions and organise tasks for the next stage.
+
+This week showed the importance of UI planning and creating wireframes before development begins. Reviewing the designs as a team helped identify areas that needed improvement.
+
+The next step was to finalise and approve the wireframes, prepare the development environment and begin implementing the planned features.
+
+---
+
+# WEEK 4: 3–7 AUGUST 2026
+## Textbook Browsing, Sprint Board and Branding Guide
+
+### 1. Taskboard
+
+#### User Story 1: Browsing and Searching for Textbooks
+
+**User Story:**  
+As a student, I want to view and search for second-hand textbooks so that I can find affordable textbooks for my modules.
+
+**Sprint 1:** Textbook Browsing and Searching
 
 **Tasks:**
-- Design the textbook browsing page.
-- Create the textbook listing layout.
-- Add search functionality.
-- Add module/category filtering.
+- Create the textbook browsing page.
+- Design the textbook listing layout.
+- Implement the search functionality.
+- Add module or category filtering.
 - Create the textbook details page.
 - Connect the frontend to the backend.
 
-### In Progress
-
+**In Progress:**
 - Continue website development.
-- Implement textbook search.
+- Implement the search functionality.
 - Connect pages to the backend.
 - Test textbook listings.
 
-### Completed
-
+**Completed:**
 - Figma wireframes.
 - Initial project planning.
 - Project requirements.
 - Trello board setup.
 
-## 5.2 Sprint – Textbook Listing and Project Design
+#### User Story 2: Listing Second-Hand Textbooks
 
-### User Story 2: List Second-Hand Textbooks
+**User Story:**  
+As a student, I want to list second-hand textbooks for sale or exchange so that other students can view and purchase or swap them.
 
-**User Story:** As a student, I want to list my second-hand textbooks so that I can sell or swap them with other students.
-
-**Sprint:** Textbook Listing and Project Design.
+**Sprint:** Textbook Listing and Project Design
 
 **Tasks:**
 - Create the Branding Guide.
-- Finalise colours.
-- Select typography.
-- Select icons.
+- Finalise the project colour palette.
+- Select typography and icons.
 - Create the Business Model.
 - Create the Solution Architecture.
 - Set up GitHub Pages.
 - Update project documentation.
 
-## 5.3 Sprint Walkthrough
+---
 
-**1. What do we need to do to advance this piece of work?**
+### 2. Walkthrough
 
-- Continue updating and managing the Sprint Board on Trello.
-- Move tasks between Product Backlog, In Progress and Completed as work progresses.
-- Finalise the Branding Guide and ensure the colours, typography and icons are consistent.
-- Continue working on the project documentation and development based on the completed wireframes.
+**1. What can be advanced to the next stage?**
 
-**2. Is anyone working on anything that is not on the board?**
+The group needed to continue updating and managing the Trello Sprint Board by moving tasks between Product Backlog, In Progress and Completed.
 
-No. The team's main activities were captured on the Trello Sprint Board. The Branding Guide was also worked on as part of the project tasks.
+The Branding Guide also needed to be finalised to ensure consistency across the project. Documentation and development activities needed to follow the approved wireframes.
 
-**3. What do we need to finish as a team?**
+**2. Was any work completed outside the taskboard?**
 
-- Complete the remaining tasks on the Sprint Board.
-- Finalise the project documentation.
-- Continue with the development of the Second-Hand Textbook Swap system.
-- Ensure the final system follows the Figma wireframes and Branding Guide.
-- Prepare for upcoming project presentations and submissions.
+No. The main project activities were recorded on Trello. The Branding Guide was also included as part of the project tasks.
 
-**4. Are there any bottlenecks or blockers to the flow of work?**
+**3. What does the team need to finish?**
 
-There were no major blockers during this period. Some time was needed to finalise the Branding Guide and make sure the team agreed on the design choices. The team also needed to balance working on the Trello Sprint Board, Branding Guide and other project requirements within the available time.
+The group needed to:
+- Complete the remaining sprint tasks.
+- Finalise project documentation.
+- Continue system development.
+- Ensure that the system follows the Figma wireframes and Branding Guide.
+- Prepare presentations and submissions.
 
-## 5.4 Daily Logbook: 3–7 August 2026
+**4. Were there any blockers or challenges?**
 
-### Monday, 3 August 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Attended the normal online class.
-- Reviewed the current project requirements and tasks.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Start working on the Sprint Board on Trello.
-- Review the tasks that need to be completed during the sprint.
-- Begin working on the Branding Guide.
-
-**3. What are my impediments, risks or problems?**
-
-- No major impediments.
-- The team still needed to organise the tasks and decide what should be prioritised.
-
-### Tuesday, 4 August 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Worked on the Trello Sprint Board.
-- Reviewed and organised tasks under the Product Backlog, In Progress and Completed sections.
-- Continued working on the Branding Guide.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Continue developing the Branding Guide.
-- Finalise the colour palette, typography and icon choices.
-- Prepare the Branding Guide for review.
-
-**3. What are my impediments, risks or problems?**
-
-- Some design decisions needed to be discussed and agreed upon by the team.
-- Time was needed to make sure the branding was consistent with the Figma wireframes.
-
-### Wednesday, 5 August 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Continued working on the Branding Guide.
-- Finalised the selected colour palette.
-- Worked on the typography and icon selection.
-- Continued updating the Trello Sprint Board.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Complete the remaining sections of the Branding Guide.
-- Review the guide with the team.
-- Prepare the content for the Friday presentation.
-
-**3. What are my impediments, risks or problems?**
-
-- Ensuring that all branding elements were consistent.
-- Making sure the Branding Guide was completed in time for the presentation.
-
-### Thursday, 6 August 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Finalised the Branding Guide.
-- Reviewed the branding choices with the team.
-- Made final adjustments to the presentation.
-- Attempted to present the Trello board and Branding Guide.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Present the Branding Guide on Friday.
-- Make any changes based on feedback received during the presentation.
-- Continue with the next project tasks after the presentation.
-
-**3. What are my impediments, risks or problems?**
-
-- The main risk was ensuring that the presentation was ready and that all team members understood the Branding Guide.
-- The presentation could not be completed as planned because the screen was blurry.
-
-### Friday, 7 August 2026
-
-**1. What did I complete since the last stand-up?**
-
-- Presented the Branding Guide and Sprint Boards to the lecturer/class.
-- Explained the project's colour palette, typography, icons and overall visual identity.
-- Reviewed the work completed on the Sprint Board.
-- Recorded feedback from the presentation.
-
-**2. What am I planning to complete between now and the next stand-up?**
-
-- Start working on the Solution Architecture.
-- Develop the Business Model for the Second-Hand Textbook Swap.
-- Set up and work on the project's GitHub Pages.
-- Add the completed work and relevant documentation to GitHub.
-
-**3. What are my impediments, risks or problems?**
-
-- No major blockers at this stage.
-
-## 5.5 Retrospective Reflection
-
-**What went well?**
-
-The team made progress with the Trello Sprint Board and Branding Guide. The colour palette, typography and icon choices were finalised and reviewed. The team also presented the Branding Guide and Sprint Board to the lecturer/class and recorded feedback.
-
-**What could be improved?**
-
-- Finalise design decisions earlier.
-- Allow enough time to prepare and test presentation equipment.
-- Maintain consistent communication within the team.
-- Balance the Sprint Board, Branding Guide and other project requirements.
-
-**Next steps:**
-
-- Continue with the Solution Architecture.
-- Develop the Business Model.
-- Set up and work on GitHub Pages.
-- Upload completed project documents and relevant evidence to GitHub.
+There were no major blockers. However, the group needed sufficient time to finalise the Branding Guide and agree on the design decisions. Another challenge was balancing the Trello board, branding activities and other project requirements.
 
 ---
 
-# 6. Overall Project Reflection
+### 3. Daily Logbook
 
-The Agile activities documented during July and August 2026 helped the team gradually develop the Textbook Swap SA project, starting with the business proposal and project planning before progressing to wireframes, branding and sprint planning.
+#### Monday – 3 August 2026
 
-The team used Trello to organise the Product Backlog, manage sprint tasks and monitor progress. User stories helped define the system's intended features from the perspective of students who need affordable second-hand textbooks.
+**Activities:**
+- Attended the normal online class.
+- Reviewed the project requirements and tasks.
+- Discussed the activities that needed to be completed.
 
-The project also involved preparing and presenting the business proposal, developing Figma wireframes, establishing the visual identity through the Branding Guide and planning the next stages of system development.
+**Plan:**
+- Start setting up the Trello Sprint Board.
+- Review sprint tasks.
+- Begin working on the Branding Guide.
 
-**Key lessons learned:**
+**Impediments:**
+- No major impediments.
+- Tasks and priorities needed to be organised.
 
-- The importance of communication and teamwork.
-- How to break larger project activities into manageable tasks.
-- How to create and organise user stories and backlog items.
-- The value of wireframes when planning a system before development.
-- The importance of maintaining consistent branding and documentation.
-- The need to prepare presentations and test equipment in advance.
-- The importance of updating Trello so that the team can monitor progress.
+#### Tuesday – 4 August 2026
 
-**Overall, these activities provided a foundation for the continued development of the Textbook Swap SA system and helped the team understand how Agile planning and collaboration support the development process.**
+**Activities:**
+- Worked on the Trello board.
+- Organised tasks into Product Backlog, In Progress and Completed.
+- Continued working on the Branding Guide.
+
+**Plan:**
+- Finalise the colour palette.
+- Select typography and icons.
+- Review the Branding Guide with the group.
+
+**Impediments:**
+- Design decisions needed to be agreed upon by the team.
+- The Branding Guide needed to remain consistent with the Figma wireframes.
+
+#### Wednesday – 5 August 2026
+
+**Activities:**
+- Continued working on the Branding Guide.
+- Finalised the selected colour palette.
+- Worked on typography and icon selections.
+- Updated the Trello board.
+
+**Plan:**
+- Complete the Branding Guide.
+- Review the guide with the team.
+- Prepare for the Friday presentation.
+
+**Impediments:**
+- Ensuring design consistency.
+- Completing the guide in time for the presentation.
+
+#### Thursday – 6 August 2026
+
+**Activities:**
+- Finalised the Branding Guide.
+- Reviewed the branding with the group.
+- Made adjustments to the presentation.
+- Attempted to present the Trello board and Branding Guide.
+
+**Plan:**
+- Present the Branding Guide and Sprint Board on Friday.
+- Make changes based on feedback.
+- Discuss the next project tasks.
+
+**Impediments:**
+- The screen was blurry during the attempted presentation, which prevented the group from presenting the work properly.
+- The team needed to ensure that the presentation was ready and that everyone understood the Branding Guide.
+
+#### Friday – 7 August 2026
+
+**Activities:**
+- Presented the Branding Guide and Sprint Boards to the lecturer and class.
+- Explained the selected colour palette, typography, icons and overall visual identity.
+- Reviewed the Sprint Board.
+- Recorded feedback received during the presentation.
+
+**Plan:**
+- Work on the Solution Architecture.
+- Develop the Business Model.
+- Set up GitHub Pages.
+- Upload and update project documentation.
+
+**Impediments:**
+- No major blockers were experienced during the presentation.
+
+---
+
+### 4. Weekly Reflection
+
+This week focused on managing the Trello Sprint Board and finalising the TextbookSwap Branding Guide. The group organised project tasks into Product Backlog, In Progress and Completed to make it easier to monitor progress.
+
+The team also worked on selecting the project's colour palette, typography and icons to establish a consistent visual identity. The Branding Guide and Sprint Board were presented to the lecturer and class on Friday.
+
+One of the challenges was ensuring that all group members agreed on the design decisions and that the Branding Guide remained consistent with the Figma wireframes. The group also experienced a technical issue on Thursday when the screen appeared blurry during the attempted presentation.
+
+This week highlighted the importance of having a clear visual identity and using Trello to manage and track sprint activities. It also showed the importance of checking presentation equipment before presenting.
+
+The next steps were to work on the Solution Architecture, Business Model, GitHub Pages and remaining project documentation.
+
+---
+
+# 5. OVERALL PROJECT REFLECTION
+
+Throughout the four reporting periods, the group worked on different stages of the TextbookSwap Entrepreneurial WIL Project. The activities included preparing and presenting the business proposal, defining the business idea, identifying stakeholders, creating the Product Backlog, developing User Stories, designing wireframes in Figma, organising sprint activities on Trello and creating the Branding Guide.
+
+The project helped the group understand the importance of using Agile project management practices to organise work, monitor progress and collaborate effectively. Trello provided a platform for managing tasks and tracking activities, while Figma helped the team plan the website layout and user interface before development.
+
+Some challenges experienced during these periods included limited preparation time, technical difficulties during presentations, agreeing on design decisions, breaking larger tasks into smaller sprint activities and distributing responsibilities among group members.
+
+Despite these challenges, the group continued working towards the project objectives and completed important planning and design activities. The experience highlighted the importance of communication, teamwork, time management, proper documentation and regular progress reviews.
+
+Overall, the project provided valuable practical experience in applying Agile principles to an entrepreneurial project. The group gained a better understanding of how to plan, organise and manage a software development project from the initial business idea through to the design and preparation stages.
+
+# END OF AGILE LOGBOOK
+
+---
+# 6. AGILE LOGBOOK SCREENSHOTS
+
+
+
