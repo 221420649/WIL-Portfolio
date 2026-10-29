@@ -52,9 +52,17 @@ Screenshots of the original Agile Team Charter will be inserted in this section 
 
 ## 10. Reflection
 
-Developing the Agile Team Charter helped establish a shared understanding of the TextBook Swap SA project's purpose, vision, objectives and team responsibilities. It highlighted the importance of communication, collaboration and clear role allocation when working on an Agile project.
+## Reflection: Agile Team Charter
 
-The charter also provided a foundation for organising project tasks and keeping the team focused on the goal of helping students access textbooks more affordably. This planning helped connect the project's intended value to the development of the working platform.
+Developing the Agile Team Charter for our TextBook Swap SA project helped me understand the importance of establishing a clear foundation before beginning the development process. At the start of a group project, it is important for every team member to understand the purpose of the project, the responsibilities assigned to them, and the expectations of the group. The charter provided us with a shared understanding of what we wanted to achieve and how we would work together towards our goals.
+
+One of the most valuable aspects of this activity was defining the roles and responsibilities of each team member. By assigning specific responsibilities, we were able to create a better structure within the group and understand how each person's contribution supported the overall project. This involved contributing towards the design and usability of the platform, considering how students would interact with the system, and focusing on testing the website across different devices. Through this responsibility, I realised that developing a successful application involves more than writing code. The user experience, accessibility, functionality and overall presentation are also important parts of software development.
+
+The charter also helped us establish the values and working agreements that would guide our collaboration. We identified communication, respect, teamwork, transparency and constructive feedback as important principles. We used WhatsApp to communicate regularly, held virtual check-ins to discuss progress, and used GitHub to support collaboration and version control. These arrangements helped us understand the importance of keeping one another informed, sharing updates and addressing challenges as they arose.
+
+Another important lesson I gained was the value of Agile principles, particularly collaboration, flexibility and continuous improvement. During a project, requirements and priorities can change, and team members may experience different challenges. Having an agreed approach made it easier for us to remain focused on our objectives while adapting to changes. I also learned that an Agile Team Charter should not simply be treated as a document that is completed at the beginning of a project. It serves as a reference that helps guide the team's behaviour, decisions and collaboration throughout the development process.
+
+Overall, this activity improved my understanding of teamwork and the importance of planning in an Agile environment. It showed me that a successful project depends not only on the technical skills of its members but also on effective communication, accountability and shared responsibility. I was able to recognise how my role contributed to the team's objectives and how the responsibilities of other members supported different areas of the project. The experience has helped me develop a better appreciation for working in a structured development team and has prepared me to approach future software development projects with greater confidence and responsibility.
 
 ## 11. Supporting Evidence
 
