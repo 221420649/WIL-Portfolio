@@ -1,33 +1,399 @@
 
-<section>
-  <h2>5. Supporting Screenshots</h2>
-  <p>
-    The following screenshots provide visual evidence of the User Stories
-    and Tasks prepared for TextBook Swap SA.
-  </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>User Stories and Tasks | TextBook Swap SA</title>
 
-  <h3>User Stories – Page 1</h3>
-  <img
-    class="evidence"
-    src="../Entrepreneurial-WIL-Project/User%20Stories%201.PNG"
-    alt="User Stories and Tasks – Page 1"
-    loading="lazy"
-  >
+<style>
+:root {
+  --green: #24452A;
+  --gold: #C89245;
+  --off-white: #FCFBF7;
+  --cream: #F7F2E8;
+  --olive: #4B6B42;
+}
 
-  <h3>User Stories – Page 2</h3>
-  <img
-    class="evidence"
-    src="../Entrepreneurial-WIL-Project/User%20Stories%202.PNG"
-    alt="User Stories and Tasks – Page 2"
-    loading="lazy"
-  >
+* {
+  box-sizing: border-box;
+}
 
-  <h3>User Stories – Page 3</h3>
-  <img
-    class="evidence"
-    src="../Entrepreneurial-WIL-Project/User%20Stories%203.PNG"
-    alt="User Stories and Tasks – Page 3"
-    loading="lazy"
-  >
-</section>
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: var(--cream);
+  color: #30352F;
+  line-height: 1.7;
+}
+
+header {
+  background: var(--green);
+  color: white;
+  padding: 45px 8%;
+  border-bottom: 5px solid var(--gold);
+}
+
+header a {
+  color: #F4D6A5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+header h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 22px 0 8px;
+}
+
+header p {
+  color: #E8EDE5;
+  margin: 0;
+}
+
+main {
+  max-width: 1050px;
+  margin: 40px auto;
+  padding: 0 22px;
+}
+
+section {
+  background: var(--off-white);
+  padding: 30px;
+  margin-bottom: 25px;
+  border-radius: 14px;
+  border: 1px solid #E8E1D4;
+  box-shadow: 0 5px 18px rgba(36,69,42,0.06);
+}
+
+h2 {
+  color: var(--green);
+  margin-top: 0;
+  border-bottom: 2px solid #E9E1D3;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: var(--olive);
+  margin-bottom: 8px;
+}
+
+.project-label {
+  display: inline-block;
+  background: #E9EFE5;
+  color: var(--green);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.story {
+  background: #F7F2E8;
+  border-left: 4px solid var(--gold);
+  padding: 18px 22px;
+  margin: 20px 0;
+  border-radius: 0 10px 10px 0;
+}
+
+.story h3 {
+  margin-top: 0;
+}
+
+.story p {
+  margin: 8px 0;
+}
+
+.story ul {
+  margin-bottom: 0;
+}
+
+.reflection p {
+  margin-bottom: 18px;
+}
+
+.evidence-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 15px auto 30px;
+  border-radius: 10px;
+  border: 1px solid #DED7CA;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.image-caption {
+  font-weight: 700;
+  color: var(--olive);
+  margin-top: 25px;
+}
+
+footer {
+  background: var(--green);
+  color: white;
+  text-align: center;
+  padding: 28px 15px;
+}
+
+footer p {
+  margin: 5px;
+}
+
+@media(max-width: 600px) {
+  header {
+    padding: 35px 22px;
+  }
+
+  section {
+    padding: 20px;
+  }
+
+  .story {
+    padding: 15px;
+  }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <a href="../index.html">← Back to Portfolio</a>
+  <h1>User Stories and Tasks</h1>
+  <p>TextBook Swap SA — Second-Hand Textbook Swap</p>
+  <p>Cape Peninsula University of Technology | Entrepreneurial WIL Project</p>
+</header>
+
+<main>
+
+  <section>
+    <span class="project-label">PORTFOLIO DOCUMENT 02</span>
+    <h2>1. Introduction</h2>
+
+    <p>
+      User stories describe the features and functionality that students
+      need from the TextBook Swap SA platform. They help the development
+      team understand user requirements and divide the work into manageable
+      tasks.
+    </p>
+
+    <p>
+      <strong>Project:</strong> TextBook Swap SA — Second-Hand Textbook Swap
+    </p>
+  </section>
+
+  <section>
+    <h2>2. User Stories and Tasks</h2>
+
+    <div class="story">
+      <h3>User Story 1: Search for Textbooks</h3>
+      <p><strong>User Story:</strong> As a CPUT student, I want to search for textbooks by title or author so that I can find the books I need for my modules.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Create the textbook search interface.</li>
+        <li>Implement the search functionality.</li>
+        <li>Display textbooks matching the search criteria.</li>
+        <li>Test the search functionality.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 2: Filter Textbooks</h3>
+      <p><strong>User Story:</strong> As a CPUT student, I want to filter textbook listings so that I can find books that meet my requirements.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Design the filtering interface.</li>
+        <li>Implement the available filters.</li>
+        <li>Display textbooks matching the selected filters.</li>
+        <li>Test the filtering functionality.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 3: List a Textbook</h3>
+      <p><strong>User Story:</strong> As a student, I want to list a second-hand textbook so that other students can discover and acquire it.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Design the textbook listing form.</li>
+        <li>Provide fields for textbook details.</li>
+        <li>Display listed textbooks on the platform.</li>
+        <li>Test the listing process.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 4: View Textbook Details</h3>
+      <p><strong>User Story:</strong> As a student, I want to view a textbook's details so that I can decide whether it meets my academic needs.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Design the textbook details page.</li>
+        <li>Display the title, author, module and condition where available.</li>
+        <li>Make textbook details easy to read.</li>
+        <li>Test the textbook details page.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 5: View Textbook Condition</h3>
+      <p><strong>User Story:</strong> As a student, I want to see the condition of a second-hand textbook so that I can make an informed decision before acquiring it.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Display the condition of each textbook.</li>
+        <li>Create a consistent way to describe textbook condition.</li>
+        <li>Test how condition information appears on the platform.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 6: Use the Platform on Different Devices</h3>
+      <p><strong>User Story:</strong> As a student, I want to access TextBook Swap SA on my phone, tablet or computer so that I can find textbooks conveniently.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Create a responsive website layout.</li>
+        <li>Test the website on mobile devices.</li>
+        <li>Test the website on tablets and computers.</li>
+        <li>Fix any layout problems identified during testing.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 7: Create a Wishlist</h3>
+      <p><strong>User Story:</strong> As a student, I want to save textbooks to a wishlist so that I can keep track of books I want to acquire.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Design the wishlist interface.</li>
+        <li>Implement the ability to add textbooks to the wishlist.</li>
+        <li>Display saved textbooks.</li>
+        <li>Test the wishlist functionality.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 8: Access a User Guide</h3>
+      <p><strong>User Story:</strong> As a student, I want to access a user guide so that I can understand how to use the platform.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Write instructions explaining the platform's features.</li>
+        <li>Explain how to search and filter textbooks.</li>
+        <li>Explain how to use other available features.</li>
+        <li>Review the guide for clarity and accuracy.</li>
+      </ul>
+    </div>
+
+    <div class="story">
+      <h3>User Story 9: Manage Textbook Listings</h3>
+      <p><strong>User Story:</strong> As an administrator, I want to manage textbook listings so that the platform's information remains organised and appropriate.</p>
+
+      <strong>Tasks:</strong>
+      <ul>
+        <li>Plan the administrator dashboard.</li>
+        <li>Identify the listing management functions required.</li>
+        <li>Design the dashboard interface.</li>
+        <li>Test the available management functions.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <h2>3. Evidence</h2>
+
+    <p>
+      Screenshots of the actual user stories and tasks, or the relevant
+      project planning board, will be added to this section to demonstrate
+      the planning work completed for TextBook Swap SA.
+    </p>
+  </section>
+
+  <section class="reflection">
+    <h2>4. Reflection: User Stories and Tasks</h2>
+
+    <p>
+      Working on the User Stories and Tasks for our TextBook Swap SA project
+      helped me understand the importance of identifying user needs before
+      developing a software application. I learned that it is important to
+      consider the system from the user's perspective and understand what
+      students would want to achieve when using the platform.
+    </p>
+
+    <p>
+      Our main goal was to create a platform where students could buy, sell
+      and exchange second-hand textbooks at more affordable prices.
+      Developing user stories helped us identify important features and
+      user interactions, such as browsing textbooks, searching for specific
+      books, viewing book details and creating listings.
+    </p>
+
+    <p>
+      I also learned how to structure user stories using the format
+      "As a user, I want to..., so that..." This helped us explain the
+      purpose of each feature and the value it would provide. Breaking
+      these stories down into smaller tasks made it easier to understand
+      the work involved, allocate responsibilities and track development
+      progress.
+    </p>
+
+    <p>
+      This activity improved my understanding of Agile development because
+      user stories and tasks help connect user requirements with the actual
+      development process. They also allow the team to organise work,
+      prioritise features and make improvements as the project progresses.
+    </p>
+
+    <p>
+      Overall, this activity strengthened my requirement analysis and
+      problem-solving skills. It taught me that understanding user needs
+      and planning features properly are important steps in developing a
+      useful and user-friendly application. I will be able to apply these
+      skills in future software development projects.
+    </p>
+  </section>
+
+  <section>
+    <h2>5. Supporting Screenshots</h2>
+
+    <p>
+      The following screenshots provide visual evidence of the User Stories
+      and Tasks prepared for TextBook Swap SA.
+    </p>
+
+    <p class="image-caption">User Stories – Page 1</p>
+    <img
+      class="evidence-image"
+      src="../Entrepreneurial-WIL-Project/User%20Stories%201.PNG"
+      alt="User Stories and Tasks – Page 1"
+    >
+
+    <p class="image-caption">User Stories – Page 2</p>
+    <img
+      class="evidence-image"
+      src="../Entrepreneurial-WIL-Project/User%20Stories%202.PNG"
+      alt="User Stories and Tasks – Page 2"
+    >
+
+    <p class="image-caption">User Stories – Page 3</p>
+    <img
+      class="evidence-image"
+      src="../Entrepreneurial-WIL-Project/User%20Stories%203.PNG"
+      alt="User Stories and Tasks – Page 3"
+    >
+  </section>
+
+</main>
+
+<footer>
+  <p><strong>TextBook Swap SA</strong></p>
+  <p>Entrepreneurial WIL Portfolio</p>
+  <p>Cape Peninsula University of Technology</p>
+</footer>
+
+</body>
+</html>
+
 
