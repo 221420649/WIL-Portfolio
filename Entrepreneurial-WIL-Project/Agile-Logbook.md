@@ -730,4 +730,13 @@ Overall, the project provided valuable practical experience in applying Agile pr
 
 ![Agile LogBook 4](Agile%20LogBook%204.png)
 
+### Week 2: 20–24 July 2026
+**Project Initiation and Business Planning**
 
+![Agile LB 1](Agile%20LB%201.png)
+
+![Agile LB 2](Agile%20LB%202.png)
+
+![Agile LB 3](Agile%20LB%203.png)
+
+![Agile LB 4](Agile%20LB%204.png)
