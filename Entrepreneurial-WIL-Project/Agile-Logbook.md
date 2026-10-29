@@ -719,48 +719,53 @@ Overall, the project provided valuable practical experience in applying Agile pr
 
 ---
 # 6. AGILE LOGBOOK SCREENSHOTS
+
 ### Week 1: 14–17 July 2026
+
 **Business Proposal Presentation and Feedback**
 
-![Agile LogBook 1](Agile%20LogBook%201.png)
+![Agile LogBook 1](Agile%20LogBook%201.PNG)
 
-![Agile LogBook 2](Agile%20LogBook%202.png)
+![Agile LogBook 2](Agile%20LogBook%202.PNG)
 
-![Agile LogBook 3](Agile%20LogBook%203.png)
+![Agile LogBook 3](Agile%20LogBook%203.PNG)
 
-![Agile LogBook 4](Agile%20LogBook%204.png)
+![Agile LogBook 4](Agile%20LogBook%204.PNG)
 
 ### Week 2: 20–24 July 2026
+
 **Project Initiation and Business Planning**
 
-![Agile LB 1](Agile%20LB%201.png)
+![Agile LB 1](Agile%20LB%201.PNG)
 
-![Agile LB 2](Agile%20LB%202.png)
+![Agile LB 2](Agile%20LB%202.PNG)
 
-![Agile LB 3](Agile%20LB%203.png)
+![Agile LB 3](Agile%20LB%203.PNG)
 
-![Agile LB 4](Agile%20LB%204.png)
+![Agile LB 4](Agile%20LB%204.PNG)
 
 ### Week 3: 27–31 July 2026
+
 **TextbookSwap Wireframes**
 
-![1 AGILE](1%20AGILE.png)
+![1 AGILE](1%20AGILE.PNG)
 
-![2 AGILE](2%20AGILE.png)
+![2 AGILE](2%20AGILE.PNG)
 
-![3 AGILE](3%20AGILE.png)
+![3 AGILE](3%20AGILE.PNG)
 
-![4 AGILE](4%20AGILE.png)
+![4 AGILE](4%20AGILE.PNG)
 
 ### Week 4: 3–7 August 2026
+
 **Textbook Browsing, Sprint Board and Branding Guide**
 
-![AGL1](AGL1.png)
+![AGL1](AGL1.PNG)
 
-![AGL2](AGL2.png)
+![AGL2](AGL2.PNG)
 
-![AGL3](AGL3.png)
+![AGL3](AGL3.PNG)
 
-![AGL4](AGL4.png)
+![AGL4](AGL4.PNG)
 
-![AGL5](AGL5.png)
+![AGL5](AGL5.PNG)
