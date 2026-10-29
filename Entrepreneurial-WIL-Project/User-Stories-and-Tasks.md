@@ -103,11 +103,17 @@ Screenshots of the actual user stories and tasks, or the relevant project planni
 
 ## 4. Reflection
 
-Creating user stories helped the team identify the needs of students using TextBook Swap SA. Breaking each story into smaller tasks made the development work easier to plan, allocate and track.
+## Reflection: User Stories and Tasks
 
-The stories cover important areas such as textbook searching, filtering, viewing listings, accessibility and managing the platform. They also help the team prioritise features and identify the work required to develop and test them.
+Working on the User Stories and Tasks for our TextBook Swap SA project helped me understand the importance of identifying user needs before developing a software application. I learned that it is important to consider the system from the user's perspective and understand what students would want to achieve when using the platform.
 
-The user stories and tasks should be reviewed as the project develops to ensure they remain aligned with the needs of CPUT students and the actual functionality of TextBook Swap SA.
+Our main goal was to create a platform where students could buy, sell and exchange second-hand textbooks at more affordable prices. Developing user stories helped us identify important features and user interactions, such as browsing textbooks, searching for specific books, viewing book details and creating listings.
+
+I also learned how to structure user stories using the format "As a user, I want to..., so that..." This helped us explain the purpose of each feature and the value it would provide. Breaking these stories down into smaller tasks made it easier to understand the work involved, allocate responsibilities and track development progress.
+
+This activity improved my understanding of Agile development because user stories and tasks help connect user requirements with the actual development process. They also allow the team to organise work, prioritise features and make improvements as the project progresses.
+
+Overall, this activity strengthened my requirement analysis and problem-solving skills. It taught me that understanding user needs and planning features properly are important steps in developing a useful and user-friendly application. I will be able to apply these skills in future software development projects.
 
 ## 5. Supporting Screenshots
 
