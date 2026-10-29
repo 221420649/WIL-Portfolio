@@ -15,19 +15,19 @@ TextBook Swap SA aims to reduce the cost of academic materials by connecting stu
 The following sections contain the Agile project documentation, supporting screenshots and individual reflections.
 
 ### 1. Agile Project Charter
-[View Agile Project Charter](Entrepreneurial-WIL-Project/Agile-Project-Charter.md)
+[View Agile Project Charter](https://github.com/221420649/WIL-Portfolio/blob/main/Entrepreneurial-WIL-Project/Agile-Project-Charter.md)
 
 ### 2. User Stories and Tasks
-[View User Stories and Tasks](Entrepreneurial-WIL-Project/User-Stories-and-Tasks.md)
+[View User Stories and Tasks](https://github.com/221420649/WIL-Portfolio/blob/main/Entrepreneurial-WIL-Project/User-Stories-and-Tasks.md)
 
 ### 3. Product Backlog
-[View Product Backlog](Entrepreneurial-WIL-Project/Product-Backlog.md)
+[View Product Backlog](https://github.com/221420649/WIL-Portfolio/blob/main/Entrepreneurial-WIL-Project/Product-Backlog.md)
 
 ### 4. Sprint Backlog
-[View Sprint Backlog](Entrepreneurial-WIL-Project/Sprint-Backlog.md)
+[View Sprint Backlog](https://github.com/221420649/WIL-Portfolio/blob/main/Entrepreneurial-WIL-Project/Sprint-Backlog.md)
 
 ### 5. Agile Logbook
-[View Agile Logbook](Entrepreneurial-WIL-Project/Agile-Logbook.md)
+[View Agile Logbook](https://github.com/221420649/WIL-Portfolio/blob/main/Entrepreneurial-WIL-Project/Agile-Logbook.md)
 
 ## Live Application
 
