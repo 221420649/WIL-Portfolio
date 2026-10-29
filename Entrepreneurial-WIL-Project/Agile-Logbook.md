@@ -740,3 +740,14 @@ Overall, the project provided valuable practical experience in applying Agile pr
 ![Agile LB 3](Agile%20LB%203.png)
 
 ![Agile LB 4](Agile%20LB%204.png)
+
+### Week 3: 27–31 July 2026
+**TextbookSwap Wireframes**
+
+![1 AGILE](1%20AGILE.png)
+
+![2 AGILE](2%20AGILE.png)
+
+![3 AGILE](3%20AGILE.png)
+
+![4 AGILE](4%20AGILE.png)
