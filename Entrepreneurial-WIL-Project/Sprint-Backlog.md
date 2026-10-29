@@ -65,6 +65,9 @@ This sprint highlighted the importance of business planning, market research, st
 
 One important lesson from this sprint was that a successful project begins with a clearly defined problem and a realistic understanding of the people who will use the proposed solution. The information gathered during this stage provided a foundation for developing the business plan and defining the system requirements in later sprints.
 
+### Sprint 1 Trello Screenshot
+
+![Sprint 1 - Project Initiation and Business Planning](Sprint%201.PNG)
 ---
 
 # Sprint 2: Business Plan Development
@@ -96,6 +99,10 @@ Sprint 2 focused on developing the business plan for TextBook Swap SA. The group
 This sprint demonstrated that developing a business idea involves more than identifying a problem and proposing a solution. It also requires consideration of operational processes, financial feasibility, marketing, and potential challenges.
 
 The group learned the importance of connecting business objectives to practical plans. This stage helped establish a clearer direction for the project and provided a basis for the technical analysis and design activities that followed.
+
+### Sprint 2 Trello Screenshot
+
+![Sprint 2 - Business Plan Development](Sprint%202.PNG)
 
 ---
 
@@ -129,6 +136,10 @@ The group learned that requirements need to be clearly defined before developmen
 
 User stories, diagrams, database planning, and wireframes also helped communicate the intended system structure and user interactions. An important lesson from this sprint was that effective analysis and design can reduce uncertainty during development and help ensure that the final solution addresses the needs identified during business planning.
 
+### Sprint 3 Trello Screenshot
+
+![Sprint 3 - System Analysis and Design](Sprint%203.PNG)
+
 ---
 
 # Sprint 4: UI/UX Design and Prototype Development
@@ -160,6 +171,10 @@ Sprint 4 concentrated on the user interface and user experience of TextBook Swap
 This sprint highlighted the importance of creating an interface that is understandable, consistent, and easy to navigate. Since the intended users are university students, the design needs to make it straightforward to find textbooks and understand the available marketplace features.
 
 The group learned that interface design is not only about appearance. It also involves considering user needs, navigation, readability, and the overall user journey. Reviewing the design before or during development helps identify areas that may need improvement.
+
+### Sprint 4 Trello Screenshot
+
+![Sprint 4 - UI UX Design and Prototype Development](Sprint%204.PNG)
 
 ---
 
@@ -193,6 +208,10 @@ The group learned that software development requires attention to both individua
 
 This sprint also highlighted the importance of collaboration, problem-solving, and reviewing implementation progress. The development work provided the basis for the testing and quality assurance activities in Sprint 6. Any feature-specific claims in the final portfolio should reflect what was actually implemented.
 
+### Sprint 5 Trello Screenshot
+
+![Sprint 5 - Core System Development](Sprint%205.PNG)
+
 ---
 
 # Sprint 6: Testing, Bug Fixing and Quality Assurance
@@ -224,6 +243,10 @@ The group learned that a working application should not only be assessed by how 
 
 This sprint reinforced the importance of checking functionality systematically and recording test results. It also highlighted that testing should be based on actual outcomes, with failed tests and outstanding issues documented rather than overlooked. The results of this stage can guide the final system review in Sprint 7.
 
+### Sprint 6 Trello Screenshot
+
+![Sprint 6 - Testing, Bug Fixing and Quality Assurance](Sprint%206.PNG)
+
 ---
 
 # Sprint 7: Project Finalisation and Submission
@@ -254,6 +277,10 @@ Sprint 7 has not yet been completed, so a final reflection will be written after
 This final sprint is important because it brings together the work completed during the earlier sprints. It provides an opportunity to check that the system and its documentation are consistent, that the implemented features can be demonstrated, and that the required deliverables are ready for assessment.
 
 The group should continue to monitor the outstanding tasks, address any remaining issues, and confirm that the submission meets the project requirements. The final reflection should describe the work actually completed, the challenges encountered, and the lessons learned during project finalisation.
+
+### Sprint 7 Trello Screenshot
+
+![Sprint 7 - Project Finalisation and Submission](Sprint%207.PNG)
 
 ---
 
