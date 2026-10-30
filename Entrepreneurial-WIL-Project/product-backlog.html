@@ -1,0 +1,402 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product Backlog | TextBook Swap SA</title>
+
+<style>
+:root {
+  --green: #24452A;
+  --gold: #C89245;
+  --cream: #F7F2E8;
+  --white: #FCFBF7;
+  --olive: #4B6B42;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: var(--cream);
+  color: #30352F;
+  line-height: 1.7;
+}
+
+header {
+  background: var(--green);
+  color: white;
+  padding: 45px 8%;
+  border-bottom: 5px solid var(--gold);
+}
+
+header a {
+  color: #F4D6A5;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+header h1 {
+  font-size: clamp(2rem, 5vw, 3rem);
+  margin: 22px 0 8px;
+}
+
+header p { color: #E8EDE5; }
+
+main {
+  max-width: 1050px;
+  margin: 40px auto;
+  padding: 0 22px;
+}
+
+section {
+  background: var(--white);
+  padding: 30px;
+  margin-bottom: 25px;
+  border-radius: 14px;
+  border: 1px solid #E8E1D4;
+  box-shadow: 0 5px 18px rgba(36,69,42,0.06);
+}
+
+h2 {
+  color: var(--green);
+  margin-top: 0;
+  border-bottom: 2px solid #E9E1D3;
+  padding-bottom: 10px;
+}
+
+h3 { color: var(--olive); }
+
+.project-label {
+  display: inline-block;
+  background: #E9EFE5;
+  color: var(--green);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.sprint {
+  border: 1px solid #E8E1D4;
+  border-left: 5px solid var(--gold);
+  border-radius: 10px;
+  padding: 20px 24px;
+  margin: 22px 0;
+  background: #FCFBF7;
+}
+
+.sprint h3 { margin-top: 0; }
+
+.sprint li {
+  padding: 5px 0;
+}
+
+.legend {
+  background: #F7F2E8;
+  padding: 16px 20px;
+  border-radius: 9px;
+}
+
+.evidence-image {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 15px auto 30px;
+  border-radius: 10px;
+  border: 1px solid #DED7CA;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+}
+
+.image-caption {
+  font-weight: 700;
+  color: var(--olive);
+  margin-top: 25px;
+}
+
+.reflection p { margin-bottom: 18px; }
+
+footer {
+  background: var(--green);
+  color: white;
+  text-align: center;
+  padding: 28px 15px;
+}
+
+footer p { margin: 5px; }
+
+@media(max-width: 600px) {
+  header { padding: 35px 22px; }
+  section { padding: 20px; }
+  .sprint { padding: 16px; }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <a href="../index.html">← Back to Portfolio</a>
+  <h1>Product Backlog</h1>
+  <p>TextBook Swap SA — Second-Hand Textbook Swap</p>
+  <p>Cape Peninsula University of Technology | Entrepreneurial WIL Project</p>
+</header>
+
+<main>
+
+<section>
+  <span class="project-label">PORTFOLIO DOCUMENT 03</span>
+  <h2>Project Overview</h2>
+
+  <p><strong>Project:</strong> Textbook Swap SA</p>
+
+  <p>
+    <strong>Purpose:</strong> Develop a platform where users can list,
+    search for, and exchange or sell textbooks, with buyer–seller messaging.
+  </p>
+
+  <p>
+    This backlog is organised using the seven sprints and 54 day-based
+    tasks listed on the project's Trello board. Task details below are
+    based on the board titles; implementation details and acceptance
+    criteria should be confirmed by the project team.
+  </p>
+</section>
+
+<section>
+  <h2>Backlog Status Legend</h2>
+  <div class="legend">
+    <p><strong>[ ]</strong> Not marked complete in this document</p>
+    <p><strong>[x]</strong> Mark complete when the team has verified the task is finished</p>
+  </div>
+</section>
+
+<section>
+  <h2>Product Backlog – Seven Sprints</h2>
+
+  <div class="sprint">
+    <h3>Sprint 1 — Project Initiation and Business Planning</h3>
+    <ol>
+      <li><strong>Day 1:</strong> Complete business planning</li>
+      <li><strong>Day 2:</strong> Develop the problem statement</li>
+      <li><strong>Day 3:</strong> Identify stakeholders</li>
+      <li><strong>Day 4:</strong> Conduct market research</li>
+      <li><strong>Day 5:</strong> Analyse competitors</li>
+      <li><strong>Day 6:</strong> Complete the SWOT analysis</li>
+      <li><strong>Day 7:</strong> Define the target market</li>
+      <li><strong>Day 8:</strong> Develop the value proposition</li>
+    </ol>
+  </div>
+
+  <div class="sprint">
+    <h3>Sprint 2 — Business Plan Development</h3>
+    <ol start="9">
+      <li><strong>Day 9:</strong> Develop the mission and vision statements</li>
+      <li><strong>Day 10:</strong> Define business goals and objectives</li>
+      <li><strong>Day 11:</strong> Develop the business model</li>
+      <li><strong>Day 12:</strong> Create the marketing strategy</li>
+      <li><strong>Day 13:</strong> Develop the operational plan</li>
+      <li><strong>Day 14:</strong> Prepare the financial plan</li>
+      <li><strong>Day 15:</strong> Conduct risk analysis</li>
+      <li><strong>Day 16:</strong> Complete the executive summary</li>
+    </ol>
+  </div>
+
+  <div class="sprint">
+    <h3>Sprint 3 — System Analysis and Design</h3>
+    <ol start="17">
+      <li><strong>Day 17:</strong> Gather functional requirements</li>
+      <li><strong>Day 18:</strong> Gather non-functional requirements</li>
+      <li><strong>Day 19:</strong> Create user stories</li>
+      <li><strong>Day 20:</strong> Design the system architecture</li>
+      <li><strong>Day 21:</strong> Design the database structure</li>
+      <li><strong>Day 22:</strong> Create the Entity Relationship Diagram (ERD)</li>
+      <li><strong>Day 23:</strong> Create the use case diagram</li>
+      <li><strong>Day 24:</strong> Design the wireframes</li>
+    </ol>
+  </div>
+
+  <div class="sprint">
+    <h3>Sprint 4 — UI/UX Design and Prototype Development</h3>
+    <ol start="25">
+      <li><strong>Day 25:</strong> Design the home page</li>
+      <li><strong>Day 26:</strong> Design the user registration page</li>
+      <li><strong>Day 27:</strong> Design the user dashboard</li>
+      <li><strong>Day 28:</strong> Design the textbook listings page</li>
+      <li><strong>Day 29:</strong> Design the search and filter interface</li>
+      <li><strong>Day 30:</strong> Design the messaging interface</li>
+      <li><strong>Day 31:</strong> Review the complete prototype</li>
+      <li><strong>Day 32:</strong> Finalise the UI design</li>
+    </ol>
+  </div>
+
+  <div class="sprint">
+    <h3>Sprint 5 — Core System Development</h3>
+    <ol start="33">
+      <li><strong>Day 33:</strong> Develop user registration</li>
+      <li><strong>Day 34:</strong> Develop user login</li>
+      <li><strong>Day 35:</strong> Develop user profile management</li>
+      <li><strong>Day 36:</strong> Develop textbook listings</li>
+      <li><strong>Day 37:</strong> Develop search and filter functionality</li>
+      <li><strong>Day 38:</strong> Develop buyer and seller messaging</li>
+      <li><strong>Day 39:</strong> Integrate the front end with the back end</li>
+      <li><strong>Day 40:</strong> Review Sprint 5 development</li>
+    </ol>
+  </div>
+
+  <div class="sprint">
+    <h3>Sprint 6 — Testing, Bug Fixing and Quality Assurance</h3>
+    <ol start="41">
+      <li><strong>Day 41:</strong> Test user registration</li>
+      <li><strong>Day 42:</strong> Test user login</li>
+      <li><strong>Day 43:</strong> Test textbook listings</li>
+      <li><strong>Day 44:</strong> Test search and filter features</li>
+      <li><strong>Day 45:</strong> Test buyer and seller messaging</li>
+      <li><strong>Day 46:</strong> Fix bugs and improve performance</li>
+      <li><strong>Day 47:</strong> Conduct User Acceptance Testing (UAT)</li>
+    </ol>
+  </div>
+
+  <div class="sprint">
+    <h3>Sprint 7 — Project Finalisation and Submission</h3>
+    <ol start="48">
+      <li><strong>Day 48:</strong> Complete the technical documentation</li>
+      <li><strong>Day 49:</strong> Complete the user manual</li>
+      <li><strong>Day 50:</strong> Review the entire system</li>
+      <li><strong>Day 51:</strong> Prepare the final presentation</li>
+      <li><strong>Day 52:</strong> Prepare the live demonstration</li>
+      <li><strong>Day 53:</strong> Conduct the final project review</li>
+      <li><strong>Day 54:</strong> Submit the final project</li>
+    </ol>
+  </div>
+</section>
+
+<section>
+  <h2>Definition of Done</h2>
+  <p>A backlog item can be marked complete when the team has verified that:</p>
+  <ul>
+    <li>The task's agreed deliverable has been completed.</li>
+    <li>The relevant team member has reviewed the work.</li>
+    <li>Required changes or defects have been addressed.</li>
+    <li>Related project documentation has been updated, where applicable.</li>
+    <li>The team has confirmed the task is ready to be marked complete.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Backlog Maintenance</h2>
+  <ul>
+    <li>Keep this file in the root directory of the GitHub repository as <code>Product-Backlog.md</code>.</li>
+    <li>Update task checkboxes as work is verified.</li>
+    <li>Record changes to priorities, scope, or task ownership in the team's agreed project-tracking tool.</li>
+    <li>Use GitHub Issues or the team's project board to track detailed requirements, assignees, discussions, and acceptance criteria.</li>
+  </ul>
+</section>
+
+<section>
+  <h2>Source</h2>
+  <p>
+    Prepared from the <strong>Textbook Swap SA</strong> Trello backlog
+    export supplied for this project. The board lists seven sprint groups
+    and 54 day-based tasks. Confirm task status and any additional
+    requirements with the current Trello board and project team.
+  </p>
+</section>
+
+<section>
+  <h2>Supporting Evidence</h2>
+  <p>
+    The following screenshots provide visual evidence of the Product
+    Backlog created for the TextBook Swap SA entrepreneurial project
+    using Trello.
+  </p>
+
+  <p class="image-caption">Product Backlog – Screenshot 1</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%201.PNG"
+       alt="Product Backlog Screenshot 1">
+
+  <p class="image-caption">Product Backlog – Screenshot 2</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%202.PNG"
+       alt="Product Backlog Screenshot 2">
+
+  <p class="image-caption">Product Backlog – Screenshot 3</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%203.PNG"
+       alt="Product Backlog Screenshot 3">
+
+  <p class="image-caption">Product Backlog – Screenshot 4</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%204.PNG"
+       alt="Product Backlog Screenshot 4">
+
+  <p class="image-caption">Product Backlog – Screenshot 5</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%205.PNG"
+       alt="Product Backlog Screenshot 5">
+
+  <p class="image-caption">Product Backlog – Screenshot 6</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%206.PNG"
+       alt="Product Backlog Screenshot 6">
+
+  <p class="image-caption">Product Backlog – Screenshot 7</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%207.PNG"
+       alt="Product Backlog Screenshot 7">
+
+  <p class="image-caption">Product Backlog – Screenshot 8</p>
+  <img class="evidence-image"
+       src="../Entrepreneurial-WIL-Project/Product%20Backlog%208.PNG"
+       alt="Product Backlog Screenshot 8">
+</section>
+
+<section class="reflection">
+  <h2>Reflection</h2>
+
+  <p>
+    Developing the Product Backlog for the TextBook Swap SA entrepreneurial
+    project helped me understand the importance of organising project work
+    into smaller, manageable tasks. I divided the project into seven
+    sprints, covering the different stages of the project, from business
+    planning and system analysis to interface design, development,
+    testing, and final submission.
+  </p>
+
+  <p>
+    Using Trello helped me organise the tasks in one place and gave me a
+    clear overview of the work required throughout the project. Breaking
+    the project down into daily tasks made it easier to identify what
+    needed to be done at each stage and understand how the different
+    activities contributed to the overall project objectives.
+  </p>
+
+  <p>
+    One of the lessons I learned was that a Product Backlog is not simply
+    a list of tasks. It is a planning tool that needs to be reviewed and
+    updated as the project progresses. Tasks must be prioritised, and
+    their progress must be recorded accurately to reflect the actual
+    work completed.
+  </p>
+
+  <p>
+    Overall, creating the Product Backlog improved my understanding of
+    Agile project planning and task organisation. It also provided a
+    foundation for developing the Sprint Backlog, where selected tasks
+    can be planned in greater detail for a specific sprint.
+  </p>
+</section>
+
+</main>
+
+<footer>
+  <p><strong>TextBook Swap SA</strong></p>
+  <p>Entrepreneurial WIL Portfolio</p>
+  <p>Cape Peninsula University of Technology</p>
+</footer>
+
+</body>
+</html>
