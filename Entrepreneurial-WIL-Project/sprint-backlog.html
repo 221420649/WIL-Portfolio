@@ -1,0 +1,686 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sprint Backlog | TextBook Swap SA</title>
+<style>
+:root {
+  --green:#24452A;
+  --gold:#C89245;
+  --cream:#F7F2E8;
+  --white:#FCFBF7;
+  --olive:#4B6B42;
+}
+*{box-sizing:border-box}
+body{
+  margin:0;
+  font-family:"Segoe UI",Arial,sans-serif;
+  background:var(--cream);
+  color:#30352F;
+  line-height:1.7;
+}
+header{
+  background:var(--green);
+  color:white;
+  padding:45px 8%;
+  border-bottom:5px solid var(--gold);
+}
+header a{color:#F4D6A5;text-decoration:none;font-weight:600}
+header h1{font-size:clamp(2rem,5vw,3rem);margin:22px 0 8px}
+header p{color:#E8EDE5;margin:4px 0}
+main{max-width:1100px;margin:40px auto;padding:0 22px}
+section{
+  background:var(--white);
+  padding:30px;
+  margin-bottom:25px;
+  border-radius:14px;
+  border:1px solid #E8E1D4;
+  box-shadow:0 5px 18px rgba(36,69,42,.06);
+}
+h2{
+  color:var(--green);
+  margin-top:0;
+  border-bottom:2px solid #E9E1D3;
+  padding-bottom:10px;
+}
+h3{color:var(--olive)}
+.project-label{
+  display:inline-block;
+  background:#E9EFE5;
+  color:var(--green);
+  padding:6px 14px;
+  border-radius:20px;
+  font-size:13px;
+  font-weight:700;
+}
+.status{
+  display:inline-block;
+  background:#E9EFE5;
+  color:var(--green);
+  padding:4px 11px;
+  border-radius:20px;
+  font-size:13px;
+  font-weight:700;
+}
+.outstanding{
+  background:#F8EBDD;
+  color:#85551D;
+}
+.table-wrap{overflow-x:auto}
+table{
+  width:100%;
+  border-collapse:collapse;
+  margin:18px 0;
+  min-width:650px;
+}
+th,td{
+  padding:12px;
+  border:1px solid #E5DED1;
+  text-align:left;
+  vertical-align:top;
+}
+th{background:var(--green);color:white}
+tr:nth-child(even){background:#F7F2E8}
+.sprint{
+  border:1px solid #E8E1D4;
+  border-left:5px solid var(--gold);
+  border-radius:10px;
+  padding:22px;
+  margin:25px 0;
+  background:#FCFBF7;
+}
+.sprint h3{margin-top:0}
+.sprint-meta{
+  display:flex;
+  flex-wrap:wrap;
+  gap:12px;
+  margin:12px 0;
+}
+.reflection{
+  background:#F7F2E8;
+  padding:18px 22px;
+  border-radius:9px;
+  margin-top:22px;
+}
+.evidence-image{
+  width:100%;
+  height:auto;
+  display:block;
+  margin:15px auto 30px;
+  border-radius:10px;
+  border:1px solid #DED7CA;
+  box-shadow:0 4px 15px rgba(0,0,0,.08);
+}
+.image-caption{
+  font-weight:700;
+  color:var(--olive);
+  margin-top:25px;
+}
+footer{
+  background:var(--green);
+  color:white;
+  text-align:center;
+  padding:28px 15px;
+}
+footer p{margin:5px}
+@media(max-width:600px){
+  header{padding:35px 22px}
+  section{padding:20px}
+  .sprint{padding:16px}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <a href="../index.html">← Back to Portfolio</a>
+  <h1>Sprint Backlog</h1>
+  <p>TextBook Swap SA — Second-Hand Textbook Swap</p>
+  <p>Cape Peninsula University of Technology | Entrepreneurial WIL Project</p>
+</header>
+
+<main>
+
+<section>
+  <span class="project-label">PORTFOLIO DOCUMENT 04</span>
+  <h2>1. Project Overview</h2>
+  <p><strong>Project Name:</strong> TextBook Swap SA</p>
+  <p><strong>Project Type:</strong> Entrepreneurial Work-Integrated Learning (WIL) Project</p>
+  <p><strong>Methodology:</strong> Agile Scrum</p>
+  <p><strong>Project Focus:</strong> Student-to-student second-hand textbook marketplace</p>
+  <p><strong>Current Progress:</strong> Sprints 1–6 completed; Sprint 7 outstanding.</p>
+
+  <p>
+    TextBook Swap SA is an entrepreneurial project designed to help South
+    African university students access affordable second-hand textbooks.
+    The proposed marketplace aims to connect students who want to buy, sell,
+    or exchange used textbooks, helping reduce the financial burden
+    associated with purchasing academic materials.
+  </p>
+  <p>
+    The project follows an Agile approach, dividing the work into manageable
+    sprints. Each sprint focuses on a particular stage of the project, from
+    business planning and system design to development, testing, and final
+    submission.
+  </p>
+</section>
+
+<section>
+  <h2>2. Purpose of the Sprint Backlog</h2>
+  <p>
+    The Sprint Backlog organises the tasks required to develop TextBook
+    Swap SA. It provides a structured overview of the work planned for
+    each sprint, the expected outcomes, and the criteria used to determine
+    whether tasks meet their requirements.
+  </p>
+  <p>
+    The backlog supports planning, task prioritisation, progress monitoring,
+    collaboration, and continuous improvement throughout the project.
+  </p>
+</section>
+
+<section>
+  <h2>3. Overall Sprint Status</h2>
+  <div class="table-wrap">
+  <table>
+    <thead>
+      <tr><th>Sprint</th><th>Sprint Name</th><th>Group Status</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>Sprint 1</td><td>Project Initiation and Business Planning</td><td><span class="status">Completed</span></td></tr>
+      <tr><td>Sprint 2</td><td>Business Plan Development</td><td><span class="status">Completed</span></td></tr>
+      <tr><td>Sprint 3</td><td>System Analysis and Design</td><td><span class="status">Completed</span></td></tr>
+      <tr><td>Sprint 4</td><td>UI/UX Design and Prototype Development</td><td><span class="status">Completed</span></td></tr>
+      <tr><td>Sprint 5</td><td>Core System Development</td><td><span class="status">Completed</span></td></tr>
+      <tr><td>Sprint 6</td><td>Testing, Bug Fixing and Quality Assurance</td><td><span class="status">Completed</span></td></tr>
+      <tr><td>Sprint 7</td><td>Project Finalisation and Submission</td><td><span class="status outstanding">Outstanding</span></td></tr>
+    </tbody>
+  </table>
+  </div>
+  <p>
+    The group has completed Sprints 1–6, covering the main planning,
+    design, development, and testing stages. Sprint 7 remains outstanding
+    and focuses on preparing the final documentation, reviewing the
+    system, preparing the presentation and demonstration, and completing
+    the submission.
+  </p>
+</section>
+
+<section>
+<h2>Detailed Sprint Planning</h2>
+
+<div class="sprint">
+  <h3>Sprint 1: Project Initiation and Business Planning</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 1–8</span>
+    <span class="status">Completed</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Establish the business foundation of TextBook Swap SA by identifying
+    the problem, researching the market, understanding stakeholders, and
+    defining the target market and value proposition.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th></tr>
+    <tr><td>S1-T1</td><td>Complete business planning</td><td>High</td><td>Business planning activities and relevant decisions are documented.</td></tr>
+    <tr><td>S1-T2</td><td>Develop problem statement</td><td>High</td><td>The problem of students overspending on textbooks is clearly explained.</td></tr>
+    <tr><td>S1-T3</td><td>Identify stakeholders</td><td>High</td><td>Relevant project stakeholders are identified and documented.</td></tr>
+    <tr><td>S1-T4</td><td>Conduct market research</td><td>High</td><td>Research relevant to the student textbook market is recorded.</td></tr>
+    <tr><td>S1-T5</td><td>Analyse competitors</td><td>Medium</td><td>Relevant competitors and their offerings are examined.</td></tr>
+    <tr><td>S1-T6</td><td>Complete SWOT analysis</td><td>Medium</td><td>Strengths, weaknesses, opportunities, and threats are identified.</td></tr>
+    <tr><td>S1-T7</td><td>Define target market</td><td>High</td><td>The intended student market is clearly described.</td></tr>
+    <tr><td>S1-T8</td><td>Develop value proposition</td><td>High</td><td>The benefits and value offered by TextBook Swap SA are explained.</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 1 established the foundation of the TextBook Swap SA project.
+      The group focused on understanding the problem of students spending
+      too much money on textbooks and identifying how a second-hand
+      textbook marketplace could address this challenge.
+    </p>
+    <p>
+      This sprint highlighted the importance of business planning, market
+      research, stakeholder identification, and understanding the target
+      market before developing a solution. These activities helped clarify
+      the project's purpose and the value it aims to provide to students.
+    </p>
+    <p>
+      One important lesson from this sprint was that a successful project
+      begins with a clearly defined problem and a realistic understanding
+      of the people who will use the proposed solution. The information
+      gathered during this stage provided a foundation for developing the
+      business plan and defining the system requirements in later sprints.
+    </p>
+  </div>
+</div>
+
+<div class="sprint">
+  <h3>Sprint 2: Business Plan Development</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 9–16</span>
+    <span class="status">Completed</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Develop the business plan by establishing the project's mission,
+    vision, objectives, business model, marketing strategy, operational
+    approach, financial considerations, and risk analysis.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th></tr>
+    <tr><td>S2-T1</td><td>Develop mission and vision</td><td>High</td><td>Mission and vision statements explain the project's purpose and future direction.</td></tr>
+    <tr><td>S2-T2</td><td>Define business goals and objectives</td><td>High</td><td>Business goals and objectives are clearly documented.</td></tr>
+    <tr><td>S2-T3</td><td>Develop business model</td><td>High</td><td>The business model explains how the marketplace will operate and deliver value.</td></tr>
+    <tr><td>S2-T4</td><td>Develop marketing strategy</td><td>Medium</td><td>The target audience and proposed marketing activities are described.</td></tr>
+    <tr><td>S2-T5</td><td>Develop operational plan</td><td>Medium</td><td>The main operational processes are documented.</td></tr>
+    <tr><td>S2-T6</td><td>Develop financial plan</td><td>Medium</td><td>Relevant costs, financial assumptions, and potential revenue considerations are recorded.</td></tr>
+    <tr><td>S2-T7</td><td>Conduct risk analysis</td><td>High</td><td>Key business risks and possible responses are documented.</td></tr>
+    <tr><td>S2-T8</td><td>Prepare executive summary</td><td>High</td><td>The main points of the business plan are summarised clearly.</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 2 focused on developing the business plan for TextBook Swap SA.
+      The group considered how the project could operate as a business,
+      what objectives it should achieve, how it could reach its intended
+      users, and what risks might affect its success.
+    </p>
+    <p>
+      This sprint demonstrated that developing a business idea involves
+      more than identifying a problem and proposing a solution. It also
+      requires consideration of operational processes, financial
+      feasibility, marketing, and potential challenges.
+    </p>
+    <p>
+      The group learned the importance of connecting business objectives
+      to practical plans. This stage helped establish a clearer direction
+      for the project and provided a basis for the technical analysis and
+      design activities that followed.
+    </p>
+  </div>
+</div>
+
+<div class="sprint">
+  <h3>Sprint 3: System Analysis and Design</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 17–24</span>
+    <span class="status">Completed</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Translate the business concept into system requirements and design
+    documentation that can guide the development of TextBook Swap SA.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th></tr>
+    <tr><td>S3-T1</td><td>Define functional requirements</td><td>High</td><td>The required system functions are documented.</td></tr>
+    <tr><td>S3-T2</td><td>Define non-functional requirements</td><td>High</td><td>Relevant usability, security, performance, and compatibility requirements are identified.</td></tr>
+    <tr><td>S3-T3</td><td>Develop user stories</td><td>High</td><td>User stories describe user needs and expected outcomes.</td></tr>
+    <tr><td>S3-T4</td><td>Define system architecture</td><td>High</td><td>The main system components and their relationships are described.</td></tr>
+    <tr><td>S3-T5</td><td>Design database structure</td><td>High</td><td>Required data entities and relationships are identified.</td></tr>
+    <tr><td>S3-T6</td><td>Create entity-relationship diagram (ERD)</td><td>Medium</td><td>The diagram represents the planned data entities and relationships.</td></tr>
+    <tr><td>S3-T7</td><td>Create use case diagram</td><td>Medium</td><td>The diagram represents relevant actors and their system interactions.</td></tr>
+    <tr><td>S3-T8</td><td>Develop wireframes</td><td>High</td><td>Wireframes communicate the planned layout and user journeys.</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 3 focused on analysing the system requirements and planning
+      how TextBook Swap SA would be structured. This stage helped translate
+      the business idea into more specific technical requirements and
+      design decisions.
+    </p>
+    <p>
+      The group learned that requirements need to be clearly defined
+      before development begins. Functional requirements explain what
+      the system should do, while non-functional requirements describe
+      qualities such as usability, security, and performance.
+    </p>
+    <p>
+      User stories, diagrams, database planning, and wireframes also
+      helped communicate the intended system structure and user
+      interactions. An important lesson from this sprint was that
+      effective analysis and design can reduce uncertainty during
+      development and help ensure that the final solution addresses
+      the needs identified during business planning.
+    </p>
+  </div>
+</div>
+
+<div class="sprint">
+  <h3>Sprint 4: UI/UX Design and Prototype Development</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 25–32</span>
+    <span class="status">Completed</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Design and review the user interface and prototype of TextBook Swap SA,
+    focusing on usability, navigation, visual consistency, and the main
+    user journeys.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th></tr>
+    <tr><td>S4-T1</td><td>Design home page</td><td>High</td><td>The home page communicates the service and provides clear navigation.</td></tr>
+    <tr><td>S4-T2</td><td>Design registration page</td><td>High</td><td>The registration design presents the required account fields.</td></tr>
+    <tr><td>S4-T3</td><td>Design user dashboard</td><td>Medium</td><td>The dashboard provides access to relevant user activities.</td></tr>
+    <tr><td>S4-T4</td><td>Design textbook listings page</td><td>High</td><td>Textbook information is presented clearly and consistently.</td></tr>
+    <tr><td>S4-T5</td><td>Design search and filter interface</td><td>High</td><td>The interface communicates how users can find relevant textbooks.</td></tr>
+    <tr><td>S4-T6</td><td>Design messaging interface</td><td>Medium</td><td>The proposed interface communicates the intended buyer-seller interaction.</td></tr>
+    <tr><td>S4-T7</td><td>Review complete prototype</td><td>High</td><td>The prototype is reviewed against the planned requirements and user journeys.</td></tr>
+    <tr><td>S4-T8</td><td>Finalise UI design</td><td>High</td><td>Agreed design changes are incorporated into the final design.</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 4 concentrated on the user interface and user experience of
+      TextBook Swap SA. The group worked on translating the planned
+      requirements and designs into a visual representation of how
+      students would interact with the marketplace.
+    </p>
+    <p>
+      This sprint highlighted the importance of creating an interface
+      that is understandable, consistent, and easy to navigate. Since
+      the intended users are university students, the design needs to
+      make it straightforward to find textbooks and understand the
+      available marketplace features.
+    </p>
+    <p>
+      The group learned that interface design is not only about
+      appearance. It also involves considering user needs, navigation,
+      readability, and the overall user journey. Reviewing the design
+      before or during development helps identify areas that may need
+      improvement.
+    </p>
+  </div>
+</div>
+
+<div class="sprint">
+  <h3>Sprint 5: Core System Development</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 33–40</span>
+    <span class="status">Completed</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Develop and integrate the core functionality of TextBook Swap SA
+    in accordance with the agreed system requirements and design.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th></tr>
+    <tr><td>S5-T1</td><td>Implement user registration</td><td>High</td><td>Registration follows the agreed requirements.</td></tr>
+    <tr><td>S5-T2</td><td>Implement user login</td><td>High</td><td>Authentication follows the agreed requirements.</td></tr>
+    <tr><td>S5-T3</td><td>Implement profile management</td><td>Medium</td><td>Agreed user profile information can be managed.</td></tr>
+    <tr><td>S5-T4</td><td>Implement textbook listings</td><td>High</td><td>Users can interact with textbook listings according to the implemented scope.</td></tr>
+    <tr><td>S5-T5</td><td>Implement search and filter functionality</td><td>High</td><td>Users can search and filter listings using the available criteria.</td></tr>
+    <tr><td>S5-T6</td><td>Implement buyer-seller messaging</td><td>Medium</td><td>Messaging works if included in the implemented project scope.</td></tr>
+    <tr><td>S5-T7</td><td>Integrate front end and back end</td><td>High</td><td>The interface communicates with the required data and service components.</td></tr>
+    <tr><td>S5-T8</td><td>Review Sprint 5 development</td><td>High</td><td>Development progress and outstanding issues are reviewed.</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 5 focused on developing the application and translating
+      the planned design into software functionality. This stage
+      connected the earlier business and system planning activities
+      with the practical implementation of TextBook Swap SA.
+    </p>
+    <p>
+      The group learned that software development requires attention
+      to both individual features and the way different parts of the
+      system work together. Registration, login, textbook listings,
+      search functionality, and data integration must be considered
+      in relation to the requirements and intended user experience.
+    </p>
+    <p>
+      This sprint also highlighted the importance of collaboration,
+      problem-solving, and reviewing implementation progress. The
+      development work provided the basis for the testing and quality
+      assurance activities in Sprint 6. Any feature-specific claims
+      in the final portfolio should reflect what was actually implemented.
+    </p>
+  </div>
+</div>
+
+<div class="sprint">
+  <h3>Sprint 6: Testing, Bug Fixing and Quality Assurance</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 41–47</span>
+    <span class="status">Completed</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Evaluate the quality of TextBook Swap SA through testing, identifying
+    defects, addressing issues, and reviewing the system against its
+    intended requirements.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th></tr>
+    <tr><td>S6-T1</td><td>Test user registration</td><td>High</td><td>Test results are recorded against expected registration behaviour.</td></tr>
+    <tr><td>S6-T2</td><td>Test user login</td><td>High</td><td>Test results are recorded against expected login behaviour.</td></tr>
+    <tr><td>S6-T3</td><td>Test textbook listings</td><td>High</td><td>Listing behaviour is checked against the requirements.</td></tr>
+    <tr><td>S6-T4</td><td>Test search and filter functionality</td><td>High</td><td>Search and filter results are checked against expected outcomes.</td></tr>
+    <tr><td>S6-T5</td><td>Test messaging functionality</td><td>Medium</td><td>Messaging is tested if the feature is implemented.</td></tr>
+    <tr><td>S6-T6</td><td>Fix bugs and improve performance</td><td>High</td><td>Identified defects, fixes, and remaining issues are recorded.</td></tr>
+    <tr><td>S6-T7</td><td>Conduct user acceptance testing (UAT)</td><td>High</td><td>UAT results and feedback are recorded if testing was performed.</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 6 focused on testing and reviewing the quality of TextBook
+      Swap SA. Testing is an important part of software development
+      because it helps determine whether the implemented features behave
+      as expected and whether problems need to be addressed before the
+      project is finalised.
+    </p>
+    <p>
+      The group learned that a working application should not only be
+      assessed by how it looks, but also by how reliably its features
+      operate. Testing helps identify defects, reveal areas for
+      improvement, and evaluate the system against its requirements.
+    </p>
+    <p>
+      This sprint reinforced the importance of checking functionality
+      systematically and recording test results. It also highlighted
+      that testing should be based on actual outcomes, with failed tests
+      and outstanding issues documented rather than overlooked. The
+      results of this stage can guide the final system review in Sprint 7.
+    </p>
+  </div>
+</div>
+
+<div class="sprint">
+  <h3>Sprint 7: Project Finalisation and Submission</h3>
+  <div class="sprint-meta">
+    <span><strong>Duration:</strong> Days 48–54</span>
+    <span class="status outstanding">Outstanding / In Progress</span>
+  </div>
+  <h4>Sprint Goal</h4>
+  <p>
+    Prepare the final project documentation, user manual, system review,
+    presentation, demonstration, and submission materials required to
+    complete the TextBook Swap SA project.
+  </p>
+  <h4>Sprint Tasks</h4>
+  <div class="table-wrap">
+  <table>
+    <tr><th>Task ID</th><th>Task</th><th>Priority</th><th>Acceptance Criteria</th><th>Status</th></tr>
+    <tr><td>S7-T1</td><td>Complete technical documentation</td><td>High</td><td>Technical documentation describes the system and its relevant implementation details.</td><td>Outstanding</td></tr>
+    <tr><td>S7-T2</td><td>Complete the user manual</td><td>High</td><td>The manual explains how to use the implemented features.</td><td>Outstanding</td></tr>
+    <tr><td>S7-T3</td><td>Review the entire system</td><td>High</td><td>The system is reviewed against requirements and remaining issues are recorded.</td><td>Outstanding</td></tr>
+    <tr><td>S7-T4</td><td>Prepare final presentation</td><td>High</td><td>The presentation explains the problem, solution, system, and project outcomes.</td><td>Outstanding</td></tr>
+    <tr><td>S7-T5</td><td>Prepare live demonstration</td><td>High</td><td>The demonstration plan covers functionality that can actually be shown.</td><td>Outstanding</td></tr>
+    <tr><td>S7-T6</td><td>Conduct final project review</td><td>High</td><td>Final feedback, outstanding tasks, and readiness are documented.</td><td>Outstanding</td></tr>
+    <tr><td>S7-T7</td><td>Submit final project</td><td>High</td><td>Required deliverables are submitted and confirmation is retained.</td><td>Outstanding</td></tr>
+  </table>
+  </div>
+  <div class="reflection">
+    <h4>Sprint Reflection</h4>
+    <p>
+      Sprint 7 has not yet been completed, so a final reflection will
+      be written after the outstanding activities have been carried out.
+      At this stage, the group's priority is to complete the technical
+      documentation and user manual, review the system, prepare the
+      final presentation and demonstration, and organise the required
+      submission materials.
+    </p>
+    <p>
+      This final sprint is important because it brings together the
+      work completed during the earlier sprints. It provides an
+      opportunity to check that the system and its documentation are
+      consistent, that the implemented features can be demonstrated,
+      and that the required deliverables are ready for assessment.
+    </p>
+    <p>
+      The group should continue to monitor the outstanding tasks,
+      address any remaining issues, and confirm that the submission
+      meets the project requirements. The final reflection should
+      describe the work actually completed, the challenges encountered,
+      and the lessons learned during project finalisation.
+    </p>
+  </div>
+</div>
+</section>
+
+<section>
+  <h2>4. Definition of Done</h2>
+  <p>A task may be marked as completed when:</p>
+  <ul>
+    <li>The required work has been carried out.</li>
+    <li>The result has been reviewed against the relevant requirements.</li>
+    <li>Any relevant defects or limitations have been recorded.</li>
+    <li>The task status reflects the actual work performed.</li>
+    <li>Appropriate documentation or other evidence is available where required.</li>
+  </ul>
+  <p>
+    A sprint-level status of completed does not automatically mean that
+    every individual task has been independently verified.
+  </p>
+</section>
+
+<section>
+  <h2>5. Backlog Maintenance</h2>
+  <p>
+    The Sprint Backlog should be reviewed and updated as the project
+    progresses. Task priorities and statuses should reflect the group's
+    actual work. Unfinished activities should remain outstanding or be
+    carried forward where appropriate.
+  </p>
+  <p>
+    The Product Backlog represents the overall list of project work,
+    while the Sprint Backlog organises and tracks work associated with
+    the individual sprints.
+  </p>
+</section>
+
+<section>
+  <h2>6. Overall Reflection</h2>
+  <p>
+    Completing Sprints 1–6 as a group allowed us to progress through the
+    main stages of the TextBook Swap SA project, from business planning
+    and system analysis to interface design, development, and testing.
+    Dividing the project into sprints helped organise the work into
+    manageable stages and provided a clearer understanding of how each
+    stage contributed to the overall objectives.
+  </p>
+  <p>
+    Throughout the project, we developed a better understanding of Agile
+    planning, task organisation, system requirements, user interface
+    design, implementation, and quality assurance. The process also
+    reinforced the importance of teamwork, communication, reviewing
+    progress, and addressing challenges as they arise.
+  </p>
+  <p>
+    One of the key lessons learned was that successful project
+    development requires both technical work and proper documentation.
+    Planning and design provide direction, development turns requirements
+    into functionality, and testing helps identify areas that need
+    improvement.
+  </p>
+  <p>
+    Sprint 7 remains outstanding. The group's next priority is to complete
+    the final documentation, review the system, prepare the presentation
+    and demonstration, and submit the required deliverables. Completing
+    these activities will help bring the project to a proper conclusion
+    and ensure that the final portfolio accurately reflects the work
+    completed.
+  </p>
+</section>
+
+<section>
+  <h2>7. Conclusion</h2>
+  <p>
+    The Sprint Backlog provides a structured overview of the seven stages
+    of the TextBook Swap SA project. It connects business planning,
+    system design, development, testing, and finalisation activities
+    while supporting task prioritisation and progress monitoring.
+  </p>
+  <p>
+    The group has completed Sprints 1–6 and is preparing to complete
+    Sprint 7. Keeping the backlog updated will help ensure that the
+    outstanding tasks are managed effectively and that the final project
+    documentation reflects the actual work completed.
+  </p>
+</section>
+
+<section>
+  <h2>Supporting Screenshots – Trello Sprint Board</h2>
+  <p>
+    The following screenshots provide visual evidence of the seven
+    sprints organised on the TextBook Swap SA Trello board.
+  </p>
+
+  <p class="image-caption">Sprint 1 – Project Initiation and Business Planning</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%201.PNG" alt="Sprint 1 Trello Screenshot">
+
+  <p class="image-caption">Sprint 2 – Business Plan Development</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%202.PNG" alt="Sprint 2 Trello Screenshot">
+
+  <p class="image-caption">Sprint 3 – System Analysis and Design</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%203.PNG" alt="Sprint 3 Trello Screenshot">
+
+  <p class="image-caption">Sprint 4 – UI/UX Design and Prototype Development</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%204.PNG" alt="Sprint 4 Trello Screenshot">
+
+  <p class="image-caption">Sprint 5 – Core System Development</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%205.PNG" alt="Sprint 5 Trello Screenshot">
+
+  <p class="image-caption">Sprint 6 – Testing, Bug Fixing and Quality Assurance</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%206.PNG" alt="Sprint 6 Trello Screenshot">
+
+  <p class="image-caption">Sprint 7 – Project Finalisation and Submission</p>
+  <img class="evidence-image" src="../Entrepreneurial-WIL-Project/Sprint%207.PNG" alt="Sprint 7 Trello Screenshot">
+</section>
+
+</main>
+
+<footer>
+  <p><strong>TextBook Swap SA</strong></p>
+  <p>Entrepreneurial WIL Portfolio</p>
+  <p>Cape Peninsula University of Technology</p>
+</footer>
+
+</body>
+</html>
